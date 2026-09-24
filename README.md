@@ -262,7 +262,3 @@ Without these steps the AI-summary panel shows a short setup note and everything
 - A production database or warehouse connector instead of CSV upload
 - Model monitoring: drift detection on intents and topics, and scheduled re-evaluation
 - A feedback loop so reviewers can correct intents and risk labels, used to retrain models and recalibrate weights
-
-## License
-
-[MIT](LICENSE) © 2026 Shashank BM
