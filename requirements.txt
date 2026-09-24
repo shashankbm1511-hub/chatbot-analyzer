@@ -1,0 +1,9 @@
+# Tested with: Python 3.11; pandas 2.2 and 3.0; numpy 1.26 and 2.4; streamlit 1.55–1.64.
+streamlit>=1.55,<2
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.5
+plotly>=5.24
+vaderSentiment>=3.3.2
+python-dotenv>=1.0
+pytest>=8.0

@@ -1,0 +1,1304 @@
+conversation_id,timestamp,customer_id,conversation_text,intent,channel,resolved,escalated,response_time_seconds,conversation_length
+CONV-00043,2026-04-01 20:28:00,CUST-8433,"Customer: What is the warranty period on this product?
+Bot: Sorry, I didn't quite get that. Could you rephrase your question?
+Customer: Can you be more specific about the limits?
+Bot: I can help with that. Could you share a few more details?
+Customer: What is the warranty period on this product?
+Bot: Sorry, I didn't quite get that. Could you rephrase your question?
+Customer: Useless. I'll try again later.",Product Information,web,False,False,4.6,7
+CONV-00120,2026-04-02 10:27:00,CUST-3677,"Customer: Hi. I'm getting a blank screen after the latest update.
+Bot: Please check that notifications are enabled for the app in your phone settings.
+Customer: Okay, got it. Thanks for the help.
+Bot: Happy to help. Your issue has been marked as resolved.",Technical Issue,mobile_app,True,False,2.1,4
+CONV-00030,2026-04-03 08:22:00,CUST-4257,"Customer: The export button isn't working, nothing downloads.
+Bot: Here is an article that might help: Help Centre > Getting started.
+Customer: Still getting the same error. This is the third time I'm trying.
+Bot: Try logging out and back in, then retry the export. It should download as a CSV file.
+Customer: Great, that worked. Thanks!
+Bot: You're welcome! Have a great day.",Technical Issue,mobile_app,True,False,2.5,6
+CONV-00119,2026-04-03 09:25:00,CUST-4432,"Customer: How do I contact you by email?
+Bot: I understand. Let me check that for you.
+Customer: Where exactly on the page? I can't find it.
+Bot: The privacy policy is linked at the bottom of every page.
+Customer: Okay, got it. Thanks for the help.
+Bot: You're welcome! Have a great day.",General Query,web,True,False,3.8,6
+CONV-00158,2026-04-03 13:37:00,CUST-2796,"Customer: My payment went through but the invoice still shows as unpaid.
+Bot: I can see a duplicate charge on your account. I've raised a reversal and it should reflect in 3-5 business days.
+Customer: Perfect, thank you so much.
+Bot: You're welcome! Have a great day.",Billing,messaging,True,False,2.1,4
+CONV-00141,2026-04-03 16:29:00,CUST-6038,"Customer: Hello, I've contacted support four times about the same problem and it's still not fixed.
+Bot: I'm really sorry about your experience. I've logged a formal complaint and a team member will follow up within 24 hours.
+Customer: Perfect, thank you so much.
+Bot: Glad I could help! Is there anything else I can do for you?",Complaint,web,True,False,4.5,4
+CONV-00046,2026-04-04 09:14:00,CUST-9727,"Customer: I received the wrong item in my order.
+Bot: I've updated the delivery address. You'll receive a confirmation email shortly.
+Customer: Thanks, that's helpful.
+Bot: You're welcome! Have a great day.",Order/Transaction,,True,False,,4
+CONV-00199,2026-04-04 17:51:00,CUST-3677,"Customer: Hello, The two-factor code isn't coming through to my phone.
+Bot: Here is an article that might help: Help Centre > Getting started.
+Customer: I still haven't received the reset email.
+Bot: You can update your email under Settings > Profile. You'll get a verification link at the new address.
+Customer: Can I speak to a real person please?
+Bot: I'm transferring you to a human agent now. Please hold on.
+Agent: I've updated the phone number on your account, so the codes will now arrive correctly.
+Customer: I'll wait for the follow-up, but I'm not happy.",Account/Login,mobile_app,False,True,15.8,8
+CONV-00013,2026-04-06 16:23:00,CUST-1520,"Customer: Please cancel my order, I don't need it anymore.
+Bot: You can close your account under Settings > Account > Close account. Would you like me to do it for you?
+Customer: That solved it, thanks.
+Bot: Glad I could help! Is there anything else I can do for you?",Cancellation,messaging,True,False,5.5,4
+CONV-00103,2026-04-07 17:17:00,CUST-6930,"Customer: Hello, The export button isn't working, nothing downloads.
+Bot: Here is an article that might help: Help Centre > Getting started.
+Customer: I already updated the app and cleared the cache, it still crashes.
+Bot: We had a brief service disruption that is now fixed. Could you try again?
+Customer: Okay, got it. Thanks for the help.
+Bot: You're welcome! Have a great day.",Technical Issue,web,True,False,2.1,6
+CONV-00139,2026-04-08 09:59:00,CUST-1916,"Customer: Hello, Does the premium plan include priority support?
+Bot: I can help with that. Could you share a few more details?
+Customer: Can you be more specific about the limits?
+Bot: Yes, we ship to most countries. Shipping costs are shown at checkout.
+Customer: Great, that worked. Thanks!
+Bot: Happy to help. Your issue has been marked as resolved.",Product Information,web,True,False,3.6,6
+CONV-00005,2026-04-08 12:24:00,CUST-2827,"Customer: I'm really frustrated, the product stopped working after one week.
+Bot: I can help with that. Could you share a few more details?
+Customer: I don't want an apology, I want this fixed.
+Bot: I'm really sorry about your experience. I've logged a formal complaint and a team member will follow up within 24 hours.
+Customer: Transfer me to customer service, this bot isn't helping.
+Bot: I'm transferring you to a human agent now. Please hold on.
+Agent: I'm sorry for the repeated trouble. I've arranged a replacement and a goodwill credit.
+Customer: Finally, thanks.",Complaint,web,True,True,11.8,8
+CONV-00006,2026-04-08 17:03:00,CUST-5315,"Customer: Hello, I'm thinking of cancelling because the price went up.
+Bot: Sorry, I didn't quite get that. Could you rephrase your question?
+Customer: I don't want a discount, I just want to cancel.
+Bot: Here is an article that might help: Help Centre > Getting started.
+Customer: Hello, I'm thinking of cancelling because the price went up.
+Bot: I can help with that. Could you share a few more details?
+Customer: Never mind.",Cancellation,mobile_app,False,False,1.7,7
+CONV-00088,2026-04-08 21:06:00,CUST-5339,"Customer: Does the app work offline?
+Bot: The product comes with a 12-month warranty covering manufacturing defects.
+Customer: Thanks, that's helpful.
+Bot: Glad I could help! Is there anything else I can do for you?",Product Information,messaging,True,False,5.1,4
+CONV-00154,2026-04-08 22:42:00,CUST-1949,"Customer: Hi. How do I close my account permanently?
+Bot: Sorry, I didn't quite get that. Could you rephrase your question?
+Customer: I don't want a discount, I just want to cancel.
+Bot: You can close your account under Settings > Account > Close account. Would you like me to do it for you?
+Customer: I want to talk to a human agent.
+Bot: I'm transferring you to a human agent now. Please hold on.
+Agent: Hi, I'm from the customer care team. I've cancelled your plan and confirmed no further charges will be made.
+Customer: Finally, thanks.",Cancellation,web,True,True,7.8,8
+CONV-00067,2026-04-09 13:37:00,CUST-7482,"Customer: Hi. The app keeps crashing when I open my dashboard.
+Bot: I can help with that. Could you share a few more details?
+Customer: I already updated the app and cleared the cache, it still crashes.
+Bot: Try logging out and back in, then retry the export. It should download as a CSV file.
+Customer: Can I speak to a real person please?
+Bot: I'm transferring you to a human agent now. Please hold on.
+Agent: Hi, I'm a technical support engineer. I've logged this as a bug with our product team and applied a workaround to your account.
+Customer: I'll wait for the follow-up, but I'm not happy.",Technical Issue,mobile_app,False,True,20.4,8
+CONV-00107,2026-04-09 14:49:00,CUST-8019,"Customer: What's the difference between the basic and pro plans?
+Bot: The product comes with a 12-month warranty covering manufacturing defects.
+Customer: Great, that worked. Thanks!
+Bot: Glad I could help! Is there anything else I can do for you?",Product Information,web,True,False,4.4,4
+CONV-00206,2026-04-10 08:27:00,CUST-7224,"Customer: I received the wrong item in my order.
+Bot: I can help with that. Could you share a few more details?
+Customer: I asked about my order, not a generic tracking link.
+Bot: I can help with that. Could you share a few more details?
+Customer: That doesn't answer my question at all.",Order/Transaction,web,False,False,4.5,5
+CONV-00082,2026-04-10 17:36:00,CUST-3621,"Customer: Hello, I'm getting a blank screen after the latest update.
+Bot: Here is an article that might help: Help Centre > Getting started.
+Customer: I already updated the app and cleared the cache, it still crashes.
+Bot: I understand. Let me check that for you.
+Customer: I want to talk to a human agent.
+Bot: Sorry, all our agents are busy right now. Please try again later.
+Customer: That doesn't answer my question at all.",Technical Issue,mobile_app,False,False,3.4,7
+CONV-00058,2026-04-10 21:22:00,CUST-8668,"Customer: I forgot my password and the reset email never arrives.
+Bot: Here is an article that might help: Help Centre > Getting started.
+Customer: It's still saying invalid password even after the reset.
+Bot: You can update your email under Settings > Profile. You'll get a verification link at the new address.
+Customer: I want to talk to a human agent.
+Bot: I'm transferring you to a human agent now. Please hold on.
+Agent: I've updated the phone number on your account, so the codes will now arrive correctly.
+Customer: I'll wait for the follow-up, but I'm not happy.",Account/Login,mobile_app,False,True,14.7,8
+CONV-00071,2026-04-11 17:38:00,CUST-2519,"Customer: Hey, Where is my order? It was supposed to arrive yesterday.
+Bot: Sorry about that. I've arranged a free pickup and a replacement for the correct item.
+Customer: That solved it, thanks.
+Bot: Glad I could help! Is there anything else I can do for you?",Order/Transaction,web,True,False,2.2,4
+CONV-00105,2026-04-11 17:42:00,CUST-5371,"Customer: Hello, What's the difference between the basic and pro plans?
+Bot: Yes, we ship to most countries. Shipping costs are shown at checkout.
+Customer: Okay, got it. Thanks for the help.
+Bot: Glad I could help! Is there anything else I can do for you?",Product Information,mobile_app,True,False,2.8,4
+CONV-00147,2026-04-11 21:54:00,CUST-2832,"Customer: I want to give some feedback about the new design.
+Bot: Sorry, I didn't quite get that. Could you rephrase your question?
+Customer: Can I talk to someone else about this?
+Bot: Hi! I'm the virtual assistant. How can I help you today?
+Customer: Okay, got it. Thanks for the help.
+Bot: Happy to help. Your issue has been marked as resolved.",Other,mobile_app,True,False,3.2,6
+CONV-00037,2026-04-12 16:14:00,CUST-5374,"Customer: Hey, What is the warranty period on this product?
+Bot: The product comes with a 12-month warranty covering manufacturing defects.
+Customer: That solved it, thanks.
+Bot: Glad I could help! Is there anything else I can do for you?",Product Information,web,True,False,3.3,4
+CONV-00156,2026-04-12 19:24:00,CUST-1053,"Customer: Pages are loading really slowly for me today.
+Bot: I understand. Let me check that for you.
+Customer: Still getting the same error. This is the third time I'm trying.
+Bot: Sorry, I didn't quite get that. Could you rephrase your question?
+Customer: I want to talk to a human agent.
+Bot: Sorry, all our agents are busy right now. Please try again later.
+Customer: This isn't helping. Forget it.",Technical Issue,,False,False,,7
+CONV-00233,2026-04-13 10:36:00,CUST-1916,"Customer: Can I get a refund instead of store credit?
+Bot: I understand. Let me check that for you.
+Customer: It has been more than 7 business days already.
+Bot: I understand. Let me check that for you.
+Customer: Can I get a refund instead of store credit?
+Bot: Sorry, I didn't quite get that. Could you rephrase your question?
+Customer: I need to speak with a human, this is urgent.
+Bot: Sorry, all our agents are busy right now. Please try again later.
+Customer: Never mind.",Refund,messaging,False,False,5.0,9
+CONV-00155,2026-04-13 11:15:00,CUST-6310,"Customer: Hello, I see an extra charge on my invoice that I don't recognise.
+Bot: I can help with that. Could you share a few more details?
+Customer: Again, the amount on my bill is wrong.
+Bot: I understand. Let me check that for you.
+Customer: This isn't helping. Forget it.",Billing,web,False,False,2.4,5
+CONV-00216,2026-04-13 14:42:00,CUST-1319,"Customer: Hi, I was charged twice for my subscription this month.
+Bot: I understand. Let me check that for you.
+Customer: Again, the amount on my bill is wrong.
+Bot: Here is an article that might help: Help Centre > Getting started.
+Customer: Useless. I'll try again later.",Billing,mobile_app,False,False,2.6,5
+CONV-00220,2026-04-13 17:19:00,CUST-9785,"Customer: I can't log in to my account, it keeps saying invalid password.
+Bot: Here is an article that might help: Help Centre > Getting started.
+Customer: I still haven't received the reset email.
+Bot: Here is an article that might help: Help Centre > Getting started.
+Customer: Never mind.",Account/Login,mobile_app,False,False,3.0,5
+CONV-00190,2026-04-14 10:20:00,CUST-6168,"Customer: My payment failed but money was deducted from my account.
+Bot: Sorry about that. I've arranged a free pickup and a replacement for the correct item.
+Customer: Great, that worked. Thanks!
+Bot: Happy to help. Your issue has been marked as resolved.",Order/Transaction,web,True,False,3.2,4
+CONV-00174,2026-04-14 12:23:00,CUST-5808,"Customer: Hi. Does the app work offline?
+Bot: I understand. Let me check that for you.
+Customer: Can you be more specific about the limits?
+Bot: I can help with that. Could you share a few more details?
+Customer: I want to talk to a human agent.
+Bot: Sorry, all our agents are busy right now. Please try again later.
+Customer: Never mind.",Product Information,web,False,False,3.0,7
+CONV-00017,2026-04-14 20:22:00,CUST-4456,"Customer: Hello?
+Bot: Here is an article that might help: Help Centre > Getting started.
+Customer: You're not understanding my question.
+Bot: For partnership enquiries, please use the Business page on our website.
+Customer: Okay, got it. Thanks for the help.
+Bot: Glad I could help! Is there anything else I can do for you?",Other,web,True,False,4.8,6
+CONV-00142,2026-04-15 08:51:00,CUST-4295,"Customer: Hi. Pages are loading really slowly for me today.
+Bot: We had a brief service disruption that is now fixed. Could you try again?
+Customer: Okay, got it. Thanks for the help.
+Bot: Glad I could help! Is there anything else I can do for you?",Technical Issue,mobile_app,True,False,4.5,4
+CONV-00137,2026-04-15 08:53:00,CUST-2133,"Customer: Hey, I'm really frustrated, the product stopped working after one week.
+Bot: I can help with that. Could you share a few more details?
+Customer: You're not listening. This is the same problem again.
+Bot: I apologise for the inconvenience. I've shared your feedback with the delivery team and added a credit to your account.
+Customer: I need to speak with a human, this is urgent.
+Bot: I'm transferring you to a human agent now. Please hold on.
+Agent: I'm sorry for the repeated trouble. I've arranged a replacement and a goodwill credit.
+Customer: Okay, thank you for fixing it.",Complaint,mobile_app,True,True,16.1,8
+CONV-00228,2026-04-15 16:50:00,CUST-9317,"Customer: Hello, The export button isn't working, nothing downloads.
+Bot: Sorry, I didn't quite get that. Could you rephrase your question?
+Customer: I already updated the app and cleared the cache, it still crashes.
+Bot: I can help with that. Could you share a few more details?
+Customer: Hello, The export button isn't working, nothing downloads.
+Bot: Here is an article that might help: Help Centre > Getting started.
+Customer: That doesn't answer my question at all.",Technical Issue,messaging,False,False,3.3,7
+CONV-00113,2026-04-16 11:19:00,CUST-6977,"Customer: Hey, Hi, I was charged twice for my subscription this month.
+Bot: Here is an article that might help: Help Centre > Getting started.
+Customer: That's not what I asked. I was charged twice, not once.
+Bot: Your bill includes a one-time plan upgrade charge from the 12th. You can view the itemised invoice under Billing > Invoices.
+Customer: Can I speak to a real person please?
+Bot: I'm transferring you to a human agent now. Please hold on.
+Agent: Thanks for waiting. I've corrected the invoice and emailed you the updated copy.
+Customer: Thank you, that's sorted then.",Billing,web,True,True,11.4,8
+CONV-00176,2026-04-16 14:19:00,CUST-4593,"Customer: Hello, Cancel my plan before the next renewal date.
+Bot: I've cancelled your subscription. You'll keep access until the end of the current billing period.
+Customer: Perfect, thank you so much.
+Bot: You're welcome! Have a great day.",Cancellation,mobile_app,True,False,2.0,4
+CONV-00007,2026-04-16 14:37:00,CUST-6107,"Customer: Hello, This is the worst service I've ever had. Nobody is helping me.
+Bot: Sorry, I didn't quite get that. Could you rephrase your question?
+Customer: I don't want an apology, I want this fixed.
+Bot: I'm really sorry about your experience. I've logged a formal complaint and a team member will follow up within 24 hours.
+Customer: Perfect, thank you so much.
+Bot: You're welcome! Have a great day.",Complaint,web,True,False,4.2,6
+CONV-00208,2026-04-16 18:49:00,CUST-5386,"Customer: My refund was approved but the amount is less than what I paid.
+Bot: The difference is the original shipping fee, which is non-refundable under our policy.
+Customer: Okay, got it. Thanks for the help.
+Bot: You're welcome! Have a great day.",Refund,web,True,False,2.4,4
+CONV-00219,2026-04-17 17:45:00,CUST-4483,"Customer: Hi. I returned my item two weeks ago and still haven't got my refund.
+Bot: I'm sorry the product was damaged. I've initiated a full refund; no return is needed.
+Customer: Thanks, that's helpful.
+Bot: Glad I could help! Is there anything else I can do for you?",Refund,web,True,False,2.3,4
+CONV-00117,2026-04-17 18:32:00,CUST-6155,"Customer: Can I change the delivery address for my order?
+Bot: I've updated the delivery address. You'll receive a confirmation email shortly.
+Customer: Okay, got it. Thanks for the help.
+Bot: You're welcome! Have a great day.",Order/Transaction,web,True,False,4.0,4
+CONV-00069,2026-04-17 20:33:00,CUST-1434,"Customer: Does the premium plan include priority support?
+Bot: The pro plan adds team accounts, advanced reports and higher usage limits. You can compare plans on the pricing page.
+Customer: Okay, got it. Thanks for the help.
+Bot: Glad I could help! Is there anything else I can do for you?",Product Information,web,True,False,2.0,4
+CONV-00092,2026-04-18 11:04:00,CUST-7924,"Customer: Pages are loading really slowly for me today.
+Bot: Please check that notifications are enabled for the app in your phone settings.
+Customer: Perfect, thank you so much.
+Bot: Glad I could help! Is there anything else I can do for you?",Technical Issue,mobile_app,True,False,2.8,4
+CONV-00134,2026-04-18 22:20:00,CUST-9085,"Customer: Can I get a refund instead of store credit?
+Bot: I understand. Let me check that for you.
+Customer: I don't want store credit, I want my money back.
+Bot: I'm sorry the product was damaged. I've initiated a full refund; no return is needed.
+Customer: I want to talk to a human agent.
+Bot: I'm transferring you to a human agent now. Please hold on.
+Agent: I've reviewed your case and approved a refund of the shipping fee as well.
+Customer: I'll wait for the follow-up, but I'm not happy.",Refund,web,False,True,9.8,8
+CONV-00022,2026-04-19 07:02:00,CUST-9928,"Customer: Hey, What's the difference between the basic and pro plans?
+Bot: Here is an article that might help: Help Centre > Getting started.
+Customer: Can you be more specific about the limits?
+Bot: Yes, the premium plan includes priority support with faster response times.
+Customer: Can I speak to a real person please?
+Bot: I'm transferring you to a human agent now. Please hold on.
+Agent: Hi, I'm a product specialist. Here are the full specifications you asked about.
+Customer: Thank you, that's sorted then.",Product Information,web,True,True,14.2,8
+CONV-00151,2026-04-19 07:16:00,CUST-3103,"Customer: The export button isn't working, nothing downloads.
+Bot: Please update the app to the latest version and clear the cache. That resolves this crash in most cases.
+Customer: Thanks, that's helpful.
+Bot: Glad I could help! Is there anything else I can do for you?",Technical Issue,mobile_app,True,False,4.0,4
+CONV-00209,2026-04-19 09:45:00,CUST-5304,"Customer: Hey, Your delivery partner was rude and left my parcel outside in the rain.
+Bot: I'm really sorry about your experience. I've logged a formal complaint and a team member will follow up within 24 hours.
+Customer: Perfect, thank you so much.
+Bot: You're welcome! Have a great day.",Complaint,web,True,False,2.6,4
+CONV-00122,2026-04-19 13:38:00,CUST-4258,"Customer: I have a question about something else.
+Bot: I can help with that. Could you share a few more details?
+Customer: Can I talk to someone else about this?
+Bot: Here is an article that might help: Help Centre > Getting started.
+Customer: Still not working. I give up.",Other,web,False,False,3.8,5
+CONV-00205,2026-04-19 15:05:00,CUST-7065,"Customer: Hello, What's the difference between the basic and pro plans?
+Bot: The product comes with a 12-month warranty covering manufacturing defects.
+Customer: That solved it, thanks.
+Bot: Glad I could help! Is there anything else I can do for you?",Product Information,messaging,True,False,1.7,4
+CONV-00232,2026-04-19 15:20:00,CUST-4257,"Customer: Hi. Does the premium plan include priority support?
+Bot: The product comes with a 12-month warranty covering manufacturing defects.
+Customer: Perfect, thank you so much.
+Bot: Happy to help. Your issue has been marked as resolved.",Product Information,web,True,False,5.6,4
+CONV-00129,2026-04-19 16:02:00,CUST-3287,"Customer: Hey, I want a refund for a product that arrived damaged.
+Bot: I understand. Let me check that for you.
+Customer: I don't want store credit, I want my money back.
+Bot: I've created a ticket and escalated this to our specialist team. They will contact you by email within 24 hours.
+Customer: Okay. I hope it actually gets fixed this time.",Refund,messaging,False,True,18.2,5
+CONV-00171,2026-04-19 18:19:00,CUST-4814,"Customer: I returned my item two weeks ago and still haven't got my refund.
+Bot: I understand. Let me check that for you.
+Customer: It has been more than 7 business days already.
+Bot: Here is an article that might help: Help Centre > Getting started.
+Customer: This isn't helping. Forget it.",Refund,mobile_app,False,False,3.0,5
+CONV-00213,2026-04-20 08:39:00,CUST-5374,"Customer: How do I close my account permanently?
+Bot: Your order has been cancelled and any payment will be refunded to the original method.
+Customer: Okay, got it. Thanks for the help.
+Bot: You're welcome! Have a great day.",Cancellation,mobile_app,True,False,4.3,4
+CONV-00085,2026-04-20 09:11:00,CUST-2743,"Customer: Does the premium plan include priority support?
+Bot: Sorry, I didn't quite get that. Could you rephrase your question?
+Customer: Can you be more specific about the limits?
+Bot: The pro plan adds team accounts, advanced reports and higher usage limits. You can compare plans on the pricing page.
+Customer: Perfect, thank you so much.
+Bot: Happy to help. Your issue has been marked as resolved.",Product Information,web,True,False,5.8,6
+CONV-00014,2026-04-20 14:55:00,CUST-6925,"Customer: My account is locked after too many attempts.
+Bot: I've re-sent the verification code. It can take up to two minutes to arrive.
+Customer: Thanks, that's helpful.
+Bot: Happy to help. Your issue has been marked as resolved.",Account/Login,messaging,True,False,2.2,4
+CONV-00226,2026-04-21 08:06:00,CUST-7916,"Customer: I see an extra charge on my invoice that I don't recognise.
+Bot: I understand. Let me check that for you.
+Customer: Again, the amount on my bill is wrong.
+Bot: I can see a duplicate charge on your account. I've raised a reversal and it should reflect in 3-5 business days.
+Customer: Transfer me to customer service, this bot isn't helping.
+Bot: I'm transferring you to a human agent now. Please hold on.
+Agent: Hi, this is a support specialist. I've reviewed your billing history and issued a refund for the duplicate charge.
+Customer: Okay. I hope it actually gets fixed this time.",Billing,mobile_app,False,True,22.6,8
+CONV-00239,2026-04-21 13:54:00,CUST-4814,"Customer: Hi. How do I track my shipment?
+Bot: Here is an article that might help: Help Centre > Getting started.
+Customer: The tracking page just says 'in transit' and nothing else.
+Bot: I've updated the delivery address. You'll receive a confirmation email shortly.
+Customer: I want to talk to a human agent.
+Bot: I'm transferring you to a human agent now. Please hold on.
+Agent: I've confirmed with our payments team and the reversal has been processed today.
+Customer: Thank you, that's sorted then.",Order/Transaction,web,True,True,10.1,8
+CONV-00095,2026-04-21 15:28:00,CUST-5333,"Customer: My payment went through but the invoice still shows as unpaid.
+Bot: I can help with that. Could you share a few more details?
+Customer: Again, the amount on my bill is wrong.
+Bot: I can see a duplicate charge on your account. I've raised a reversal and it should reflect in 3-5 business days.
+Customer: Okay, got it. Thanks for the help.
+Bot: Glad I could help! Is there anything else I can do for you?",Billing,mobile_app,True,False,5.6,6
+CONV-00187,2026-04-21 21:29:00,CUST-9669,"Customer: I returned my item two weeks ago and still haven't got my refund.
+Bot: I can help with that. Could you share a few more details?
+Customer: It has been more than 7 business days already.
+Bot: The difference is the original shipping fee, which is non-refundable under our policy.
+Customer: Great, that worked. Thanks!
+Bot: Glad I could help! Is there anything else I can do for you?",Refund,web,True,False,1.5,6
+CONV-00133,2026-04-21 21:41:00,CUST-3340,"Customer: Can you explain the late fee on my latest bill?
+Bot: I understand. Let me check that for you.
+Customer: That's not what I asked. I was charged twice, not once.
+Bot: Your payment is confirmed. The invoice status updates within 24 hours; I've refreshed it for you now.
+Customer: Please connect me to a live agent.
+Bot: I'm transferring you to a human agent now. Please hold on.
+Agent: Hi, this is a support specialist. I've reviewed your billing history and issued a refund for the duplicate charge.
+Customer: Okay. I hope it actually gets fixed this time.",Billing,mobile_app,False,True,9.6,8
+CONV-00169,2026-04-22 08:36:00,CUST-3504,"Customer: Hey, I received the wrong item in my order.
+Bot: Here is an article that might help: Help Centre > Getting started.
+Customer: I asked about my order, not a generic tracking link.
+Bot: Your order is out for delivery and should arrive today. You can track it under Orders > Track shipment.
+Customer: I want to talk to a human agent.
+Bot: I'm transferring you to a human agent now. Please hold on.
+Agent: Hi, I'm from the orders team. I've contacted the courier and your package will be delivered tomorrow.
+Customer: Okay. I hope it actually gets fixed this time.",Order/Transaction,messaging,False,True,20.8,8
+CONV-00212,2026-04-22 20:52:00,CUST-5889,"Customer: I can't log in to my account, it keeps saying invalid password.
+Bot: Here is an article that might help: Help Centre > Getting started.
+Customer: I still haven't received the reset email.
+Bot: I've sent a new password reset link. Please check your spam folder as well; the link is valid for 30 minutes.
+Customer: That solved it, thanks.
+Bot: Glad I could help! Is there anything else I can do for you?",Account/Login,web,True,False,4.8,6
+CONV-00093,2026-04-22 21:02:00,CUST-6820,"Customer: Hello, Where is my order? It was supposed to arrive yesterday.
+Bot: Here is an article that might help: Help Centre > Getting started.
+Customer: I asked about my order, not a generic tracking link.
+Bot: Sorry, I didn't quite get that. Could you rephrase your question?
+Customer: Can I speak to a real person please?
+Bot: Sorry, all our agents are busy right now. Please try again later.
+Customer: Never mind.",Order/Transaction,messaging,False,False,3.3,7
+CONV-00191,2026-04-22 21:22:00,CUST-1711,"Customer: What is the warranty period on this product?
+Bot: Sorry, I didn't quite get that. Could you rephrase your question?
+Customer: That's not what I asked, I wanted to know about the size.
+Bot: Yes, the premium plan includes priority support with faster response times.
+Customer: Thanks, that's helpful.
+Bot: Happy to help. Your issue has been marked as resolved.",Product Information,messaging,True,False,4.8,6
+CONV-00240,2026-04-23 07:14:00,CUST-5386,"Customer: Hey, Where is my order? It was supposed to arrive yesterday.
+Bot: Sorry about that. I've arranged a free pickup and a replacement for the correct item.
+Customer: Perfect, thank you so much.
+Bot: Happy to help. Your issue has been marked as resolved.",Order/Transaction,mobile_app,True,False,2.6,4
+CONV-00068,2026-04-23 10:42:00,CUST-7224,"Customer: What's the difference between the basic and pro plans?
+Bot: The pro plan adds team accounts, advanced reports and higher usage limits. You can compare plans on the pricing page.
+Customer: Thanks, that's helpful.
+Bot: You're welcome! Have a great day.",Product Information,web,True,False,5.4,4
+CONV-00217,2026-04-23 14:37:00,CUST-5304,"Customer: Is there a student discount?
+Bot: The privacy policy is linked at the bottom of every page.
+Customer: Okay, got it. Thanks for the help.
+Bot: Glad I could help! Is there anything else I can do for you?",General Query,messaging,True,False,2.9,4
+CONV-00195,2026-04-23 22:49:00,CUST-8787,"Customer: Hello, Where can I find your privacy policy?
+Bot: Yes, you earn points on every purchase. You can see your balance under Rewards.
+Customer: Thanks, that's helpful.
+Bot: Happy to help. Your issue has been marked as resolved.",General Query,web,True,False,1.8,4
+CONV-00004,2026-04-24 15:29:00,CUST-7873,"Customer: What's the difference between the basic and pro plans?
+Bot: Sorry, I didn't quite get that. Could you rephrase your question?
+Customer: That's not what I asked, I wanted to know about the size.
+Bot: The product comes with a 12-month warranty covering manufacturing defects.
+Customer: Perfect, thank you so much.
+Bot: You're welcome! Have a great day.",Product Information,web,True,False,2.6,6
+CONV-00132,2026-04-24 16:56:00,CUST-6168,"Customer: What's the difference between the basic and pro plans?
+Bot: I understand. Let me check that for you.
+Customer: That's not what I asked, I wanted to know about the size.
+Bot: I can help with that. Could you share a few more details?
+Customer: That doesn't answer my question at all.",Product Information,mobile_app,False,False,1.7,5
+CONV-00162,2026-04-24 20:28:00,CUST-9837,"Customer: I see an extra charge on my invoice that I don't recognise.
+Bot: I can see a duplicate charge on your account. I've raised a reversal and it should reflect in 3-5 business days.
+Customer: Perfect, thank you so much.
+Bot: Glad I could help! Is there anything else I can do for you?",Billing,web,True,False,4.0,4
+CONV-00047,2026-04-24 20:40:00,CUST-1106,"Customer: My payment went through but the invoice still shows as unpaid.
+Bot: I can help with that. Could you share a few more details?
+Customer: That's not what I asked. I was charged twice, not once.
+Bot: I understand. Let me check that for you.
+Customer: Still not working. I give up.",Billing,web,False,False,5.2,5
+CONV-00102,2026-04-26 08:50:00,CUST-1520,"Customer: Where is my order? It was supposed to arrive yesterday.
+Bot: Sorry about that. I've arranged a free pickup and a replacement for the correct item.
+Customer: Great, that worked. Thanks!
+Bot: You're welcome! Have a great day.",Order/Transaction,web,True,False,2.4,4
+CONV-00167,2026-04-26 12:43:00,CUST-2679,"Customer: Do you ship internationally?
+Bot: Yes, we ship to most countries. Shipping costs are shown at checkout.
+Customer: Great, that worked. Thanks!
+Bot: Happy to help. Your issue has been marked as resolved.",Product Information,messaging,True,False,5.0,4
+CONV-00214,2026-04-26 14:40:00,CUST-4657,"Customer: Hi. Where is my order? It was supposed to arrive yesterday.
+Bot: I understand. Let me check that for you.
+Customer: The tracking page just says 'in transit' and nothing else.
+Bot: I've created a ticket and escalated this to our specialist team. They will contact you by email within 24 hours.
+Customer: Okay. I hope it actually gets fixed this time.",Order/Transaction,messaging,False,True,18.7,5
+CONV-00165,2026-04-26 21:06:00,CUST-1409,"Customer: My payment failed but money was deducted from my account.
+Bot: Sorry about that. I've arranged a free pickup and a replacement for the correct item.
+Customer: Thanks, that's helpful.
+Bot: Happy to help. Your issue has been marked as resolved.",Order/Transaction,messaging,True,False,2.1,4
+CONV-00009,2026-04-28 15:08:00,CUST-4257,"Customer: Hi. Does the app work offline?
+Bot: Yes, the premium plan includes priority support with faster response times.
+Customer: Great, that worked. Thanks!
+Bot: Happy to help. Your issue has been marked as resolved.",Product Information,messaging,True,False,5.7,4
+CONV-00072,2026-04-28 20:28:00,CUST-2040,"Customer: My refund was approved but the amount is less than what I paid.
+Bot: Here is an article that might help: Help Centre > Getting started.
+Customer: I don't want store credit, I want my money back.
+Bot: I understand. Let me check that for you.
+Customer: My refund was approved but the amount is less than what I paid.
+Bot: I can help with that. Could you share a few more details?
+Customer: Never mind.",Refund,web,False,False,5.5,7
+CONV-00111,2026-04-29 10:12:00,CUST-6820,"Customer: Please cancel my order, I don't need it anymore.
+Bot: Sorry, I didn't quite get that. Could you rephrase your question?
+Customer: The cancel button doesn't work on the settings page.
+Bot: You can close your account under Settings > Account > Close account. Would you like me to do it for you?
+Customer: Okay, got it. Thanks for the help.
+Bot: Happy to help. Your issue has been marked as resolved.",Cancellation,mobile_app,True,False,5.1,6
+CONV-00015,2026-04-29 13:52:00,CUST-5040,"Customer: Can you explain the late fee on my latest bill?
+Bot: Sorry, I didn't quite get that. Could you rephrase your question?
+Customer: I already checked the invoices page, the extra charge is still there.
+Bot: Sorry, I didn't quite get that. Could you rephrase your question?
+Customer: I want to talk to a human agent.
+Bot: Sorry, all our agents are busy right now. Please try again later.
+Customer: That doesn't answer my question at all.",Billing,web,False,False,5.6,7
+CONV-00076,2026-04-29 20:54:00,CUST-7537,"Customer: Hello, My account is locked after too many attempts.
+Bot: I've sent a new password reset link. Please check your spam folder as well; the link is valid for 30 minutes.
+Customer: Okay, got it. Thanks for the help.
+Bot: Happy to help. Your issue has been marked as resolved.",Account/Login,mobile_app,True,False,4.0,4
+CONV-00160,2026-04-30 18:35:00,CUST-3103,"Customer: Hi. Is this product available in a larger size?
+Bot: Here is an article that might help: Help Centre > Getting started.
+Customer: Can you be more specific about the limits?
+Bot: I've created a ticket and escalated this to our specialist team. They will contact you by email within 24 hours.
+Customer: Okay. I hope it actually gets fixed this time.",Product Information,mobile_app,False,True,16.6,5
+CONV-00181,2026-05-01 13:51:00,CUST-5040,"Customer: Hey, My payment failed but money was deducted from my account.
+Bot: Here is an article that might help: Help Centre > Getting started.
+Customer: The tracking page just says 'in transit' and nothing else.
+Bot: I understand. Let me check that for you.
+Customer: Hey, My payment failed but money was deducted from my account.
+Bot: I can help with that. Could you share a few more details?
+Customer: This isn't helping. Forget it.",Order/Transaction,messaging,False,False,4.8,7
+CONV-00144,2026-05-01 16:56:00,CUST-1009,"Customer: My payment failed but money was deducted from my account.
+Bot: Here is an article that might help: Help Centre > Getting started.
+Customer: The tracking page just says 'in transit' and nothing else.
+Bot: Here is an article that might help: Help Centre > Getting started.
+Customer: Still not working. I give up.",Order/Transaction,web,False,False,2.1,5
+CONV-00201,2026-05-02 08:30:00,CUST-1711,"Customer: Hey, Cancel my plan before the next renewal date.
+Bot: I've cancelled your subscription. You'll keep access until the end of the current billing period.
+Customer: Great, that worked. Thanks!
+Bot: Glad I could help! Is there anything else I can do for you?",Cancellation,web,True,False,3.1,4
+CONV-00125,2026-05-02 08:36:00,CUST-3547,"Customer: Does the app work offline?
+Bot: The product comes with a 12-month warranty covering manufacturing defects.
+Customer: Perfect, thank you so much.
+Bot: Happy to help. Your issue has been marked as resolved.",Product Information,web,True,False,5.8,4
+CONV-00073,2026-05-03 18:09:00,CUST-1053,"Customer: Can I change the delivery address for my order?
+Bot: Sorry about that. I've arranged a free pickup and a replacement for the correct item.
+Customer: Okay, got it. Thanks for the help.
+Bot: Happy to help. Your issue has been marked as resolved.",Order/Transaction,web,True,False,4.6,4
+CONV-00225,2026-05-04 10:04:00,CUST-3266,"Customer: I want to cancel my subscription.
+Bot: Your order has been cancelled and any payment will be refunded to the original method.
+Customer: Great, that worked. Thanks!
+Bot: You're welcome! Have a great day.",Cancellation,web,True,False,3.0,4
+CONV-00229,2026-05-04 14:53:00,CUST-9279,"Customer: Hi. The website is showing an error 500 when I try to check out.
+Bot: Here is an article that might help: Help Centre > Getting started.
+Customer: Still getting the same error. This is the third time I'm trying.
+Bot: Here is an article that might help: Help Centre > Getting started.
+Customer: Hi. The website is showing an error 500 when I try to check out.
+Bot: I can help with that. Could you share a few more details?
+Customer: That doesn't answer my question at all.",Technical Issue,web,False,False,2.7,7
+CONV-00207,2026-05-05 14:04:00,CUST-2584,"Customer: Hi. Notifications stopped working on my phone.
+Bot: Try logging out and back in, then retry the export. It should download as a CSV file.
+Customer: Okay, got it. Thanks for the help.
+Bot: You're welcome! Have a great day.",Technical Issue,mobile_app,True,False,5.7,4
+CONV-00186,2026-05-05 17:53:00,CUST-4923,"Customer: Where is my order? It was supposed to arrive yesterday.
+Bot: I understand. Let me check that for you.
+Customer: The tracking page just says 'in transit' and nothing else.
+Bot: Sorry about that. I've arranged a free pickup and a replacement for the correct item.
+Customer: Perfect, thank you so much.
+Bot: You're welcome! Have a great day.",Order/Transaction,mobile_app,True,False,2.8,6
+CONV-00028,2026-05-05 20:31:00,CUST-3340,"Customer: Hey, Is there a student discount?
+Bot: You can reach us through the Contact page; we reply to emails within one business day.
+Customer: That solved it, thanks.
+Bot: Glad I could help! Is there anything else I can do for you?",General Query,mobile_app,True,False,1.6,4
+CONV-00106,2026-05-06 08:04:00,CUST-3621,"Customer: I received the wrong item in my order.
+Bot: I can help with that. Could you share a few more details?
+Customer: I asked about my order, not a generic tracking link.
+Bot: I've updated the delivery address. You'll receive a confirmation email shortly.
+Customer: Thanks, that's helpful.
+Bot: You're welcome! Have a great day.",Order/Transaction,web,True,False,4.5,6
+CONV-00086,2026-05-06 08:22:00,CUST-2084,"Customer: Hey, Can I get a refund instead of store credit?
+Bot: Here is an article that might help: Help Centre > Getting started.
+Customer: That doesn't answer why I got less money back.
+Bot: Here is an article that might help: Help Centre > Getting started.
+Customer: Hey, Can I get a refund instead of store credit?
+Bot: I can help with that. Could you share a few more details?
+Customer: Still not working. I give up.",Refund,,False,False,,7
+CONV-00016,2026-05-06 09:49:00,CUST-3646,"Customer: What is the warranty period on this product?
+Bot: The pro plan adds team accounts, advanced reports and higher usage limits. You can compare plans on the pricing page.
+Customer: That solved it, thanks.
+Bot: You're welcome! Have a great day.",Product Information,web,True,False,2.8,4
+CONV-00179,2026-05-06 14:34:00,CUST-5808,"Customer: Hello, Where is my order? It was supposed to arrive yesterday.
+Bot: Failed payments are automatically reversed by the bank within 5-7 business days.
+Customer: Okay, got it. Thanks for the help.
+Bot: Glad I could help! Is there anything else I can do for you?",Order/Transaction,mobile_app,True,False,2.8,4
+CONV-00002,2026-05-06 22:13:00,CUST-2133,"Customer: Hi, I was charged twice for my subscription this month.
+Bot: I can help with that. Could you share a few more details?
+Customer: I already checked the invoices page, the extra charge is still there.
+Bot: I can see a duplicate charge on your account. I've raised a reversal and it should reflect in 3-5 business days.
+Customer: Thanks, that's helpful.
+Bot: Glad I could help! Is there anything else I can do for you?",Billing,mobile_app,True,False,3.9,6
+CONV-00235,2026-05-06 22:54:00,CUST-7924,"Customer: Where is my order? It was supposed to arrive yesterday.
+Bot: I've updated the delivery address. You'll receive a confirmation email shortly.
+Customer: Okay, got it. Thanks for the help.
+Bot: You're welcome! Have a great day.",Order/Transaction,messaging,True,False,4.6,4
+CONV-00131,2026-05-07 08:58:00,CUST-2133,"Customer: My payment went through but the invoice still shows as unpaid.
+Bot: Sorry, I didn't quite get that. Could you rephrase your question?
+Customer: I already checked the invoices page, the extra charge is still there.
+Bot: I understand. Let me check that for you.
+Customer: Please connect me to a live agent.
+Bot: Sorry, all our agents are busy right now. Please try again later.
+Customer: Still not working. I give up.",Billing,web,False,False,5.0,7
+CONV-00121,2026-05-07 09:24:00,CUST-4923,"Customer: Hi. Does the premium plan include priority support?
+Bot: The pro plan adds team accounts, advanced reports and higher usage limits. You can compare plans on the pricing page.
+Customer: Okay, got it. Thanks for the help.
+Bot: Happy to help. Your issue has been marked as resolved.",Product Information,web,True,False,3.8,4
+CONV-00089,2026-05-07 19:26:00,CUST-9645,"Customer: Why is my bill higher than usual this month?
+Bot: I understand. Let me check that for you.
+Customer: I already checked the invoices page, the extra charge is still there.
+Bot: Your bill includes a one-time plan upgrade charge from the 12th. You can view the itemised invoice under Billing > Invoices.
+Customer: Okay, got it. Thanks for the help.
+Bot: You're welcome! Have a great day.",Billing,web,True,False,5.0,6
+CONV-00080,2026-05-07 22:33:00,CUST-1488,"Customer: Hello, Where is my order? It was supposed to arrive yesterday.
+Bot: I've updated the delivery address. You'll receive a confirmation email shortly.
+Customer: That solved it, thanks.
+Bot: Glad I could help! Is there anything else I can do for you?",Order/Transaction,web,True,False,4.5,4
+CONV-00039,2026-05-08 14:23:00,CUST-5012,"Customer: Hey, The website is showing an error 500 when I try to check out.
+Bot: Sorry, I didn't quite get that. Could you rephrase your question?
+Customer: I already updated the app and cleared the cache, it still crashes.
+Bot: I understand. Let me check that for you.
+Customer: Hey, The website is showing an error 500 when I try to check out.
+Bot: Here is an article that might help: Help Centre > Getting started.
+Customer: Useless. I'll try again later.",Technical Issue,mobile_app,False,False,2.3,7
+CONV-00081,2026-05-08 17:07:00,CUST-5119,"Customer: Can you help me with a partnership enquiry?
+Bot: Hi! I'm the virtual assistant. How can I help you today?
+Customer: Perfect, thank you so much.
+Bot: You're welcome! Have a great day.",Other,web,True,False,1.5,4
+CONV-00163,2026-05-08 20:24:00,CUST-2290,"Customer: My payment went through but the invoice still shows as unpaid.
+Bot: The late fee was applied because the payment was received after the due date. I've applied a one-time courtesy waiver.
+Customer: That solved it, thanks.
+Bot: Glad I could help! Is there anything else I can do for you?",Billing,,True,False,,4
+CONV-00172,2026-05-09 08:51:00,CUST-3286,"Customer: Hey, Notifications stopped working on my phone.
+Bot: Please check that notifications are enabled for the app in your phone settings.
+Customer: Okay, got it. Thanks for the help.
+Bot: Glad I could help! Is there anything else I can do for you?",Technical Issue,mobile_app,True,False,4.7,4
+CONV-00146,2026-05-09 11:51:00,CUST-4811,"Customer: Pages are loading really slowly for me today.
+Bot: I understand. Let me check that for you.
+Customer: I already updated the app and cleared the cache, it still crashes.
+Bot: Please check that notifications are enabled for the app in your phone settings.
+Customer: Perfect, thank you so much.
+Bot: Glad I could help! Is there anything else I can do for you?",Technical Issue,mobile_app,True,False,3.6,6
+CONV-00193,2026-05-09 13:33:00,CUST-1750,"Customer: Hello, Cancel my plan before the next renewal date.
+Bot: Your order has been cancelled and any payment will be refunded to the original method.
+Customer: Great, that worked. Thanks!
+Bot: Happy to help. Your issue has been marked as resolved.",Cancellation,mobile_app,True,False,4.2,4
+CONV-00042,2026-05-09 20:19:00,CUST-9279,"Customer: What's the difference between the basic and pro plans?
+Bot: I can help with that. Could you share a few more details?
+Customer: Can you be more specific about the limits?
+Bot: Sorry, I didn't quite get that. Could you rephrase your question?
+Customer: That doesn't answer my question at all.",Product Information,mobile_app,False,False,4.1,5
+CONV-00124,2026-05-10 07:38:00,CUST-3060,"Customer: I want a refund for a product that arrived damaged.
+Bot: Here is an article that might help: Help Centre > Getting started.
+Customer: That doesn't answer why I got less money back.
+Bot: Your refund was processed on the 3rd. It usually takes 5-7 business days to reach your bank.
+Customer: That solved it, thanks.
+Bot: Happy to help. Your issue has been marked as resolved.",Refund,,True,False,,6
+CONV-00135,2026-05-10 12:25:00,CUST-2084,"Customer: Does the app work offline?
+Bot: I can help with that. Could you share a few more details?
+Customer: Can you be more specific about the limits?
+Bot: Yes, we ship to most countries. Shipping costs are shown at checkout.
+Customer: Can I speak to a real person please?
+Bot: I'm transferring you to a human agent now. Please hold on.
+Agent: Hi, I'm a product specialist. Here are the full specifications you asked about.
+Customer: Okay. I hope it actually gets fixed this time.",Product Information,mobile_app,False,True,23.4,8
+CONV-00203,2026-05-12 09:35:00,CUST-4752,"Customer: My payment failed but money was deducted from my account.
+Bot: I can help with that. Could you share a few more details?
+Customer: It's been more than 7 days and the money still hasn't come back.
+Bot: Your order is out for delivery and should arrive today. You can track it under Orders > Track shipment.
+Customer: Transfer me to customer service, this bot isn't helping.
+Bot: I'm transferring you to a human agent now. Please hold on.
+Agent: I've confirmed with our payments team and the reversal has been processed today.
+Customer: Okay. I hope it actually gets fixed this time.",Order/Transaction,mobile_app,False,True,13.5,8
+CONV-00053,2026-05-12 13:44:00,CUST-9085,"Customer: My refund was approved but the amount is less than what I paid.
+Bot: I understand. Let me check that for you.
+Customer: I don't want store credit, I want my money back.
+Bot: Here is an article that might help: Help Centre > Getting started.
+Customer: That doesn't answer my question at all.",Refund,web,False,False,2.6,5
+CONV-00215,2026-05-12 19:17:00,CUST-6155,"Customer: Hello, Do you ship internationally?
+Bot: Yes, we ship to most countries. Shipping costs are shown at checkout.
+Customer: Thanks, that's helpful.
+Bot: Happy to help. Your issue has been marked as resolved.",Product Information,mobile_app,True,False,2.3,4
+CONV-00090,2026-05-13 09:37:00,CUST-5040,"Customer: I returned my item two weeks ago and still haven't got my refund.
+Bot: I understand. Let me check that for you.
+Customer: I don't want store credit, I want my money back.
+Bot: I'm sorry the product was damaged. I've initiated a full refund; no return is needed.
+Customer: Thanks, that's helpful.
+Bot: Glad I could help! Is there anything else I can do for you?",Refund,web,True,False,4.5,6
+CONV-00001,2026-05-14 07:37:00,CUST-8787,"Customer: Hi. Is anyone there?
+Bot: I understand. Let me check that for you.
+Customer: You're not understanding my question.
+Bot: Hi! I'm the virtual assistant. How can I help you today?
+Customer: Perfect, thank you so much.
+Bot: Glad I could help! Is there anything else I can do for you?",Other,web,True,False,4.0,6
+CONV-00127,2026-05-14 18:43:00,CUST-3677,"Customer: Hey, I received the wrong item in my order.
+Bot: I understand. Let me check that for you.
+Customer: It's been more than 7 days and the money still hasn't come back.
+Bot: Failed payments are automatically reversed by the bank within 5-7 business days.
+Customer: That solved it, thanks.
+Bot: Happy to help. Your issue has been marked as resolved.",Order/Transaction,mobile_app,True,False,5.0,6
+CONV-00055,2026-05-14 19:41:00,CUST-1319,"Customer: Hi. I returned my item two weeks ago and still haven't got my refund.
+Bot: I understand. Let me check that for you.
+Customer: It has been more than 7 business days already.
+Bot: Refunds are issued to the original payment method within 5-7 business days after we receive the return.
+Customer: Transfer me to customer service, this bot isn't helping.
+Bot: I'm transferring you to a human agent now. Please hold on.
+Agent: Hi, I'm a refunds specialist. I've escalated your refund to priority processing; you'll receive it within 48 hours.
+Customer: Finally, thanks.",Refund,web,True,True,11.1,8
+CONV-00159,2026-05-15 08:06:00,CUST-7873,"Customer: Hello, The export button isn't working, nothing downloads.
+Bot: Here is an article that might help: Help Centre > Getting started.
+Customer: Still getting the same error. This is the third time I'm trying.
+Bot: We had a brief service disruption that is now fixed. Could you try again?
+Customer: Great, that worked. Thanks!
+Bot: Happy to help. Your issue has been marked as resolved.",Technical Issue,web,True,False,3.5,6
+CONV-00175,2026-05-15 18:54:00,CUST-5803,"Customer: Hey, Please cancel my order, I don't need it anymore.
+Bot: I understand. Let me check that for you.
+Customer: The cancel button doesn't work on the settings page.
+Bot: Before you go, you're eligible for a 20% discount for the next three months. Would you like to apply it?
+Customer: Thanks, that's helpful.
+Bot: Glad I could help! Is there anything else I can do for you?",Cancellation,mobile_app,True,False,3.6,6
+CONV-00033,2026-05-15 20:42:00,CUST-7126,"Customer: Can I get a refund instead of store credit?
+Bot: Your refund was processed on the 3rd. It usually takes 5-7 business days to reach your bank.
+Customer: Thanks, that's helpful.
+Bot: Glad I could help! Is there anything else I can do for you?",Refund,mobile_app,True,False,3.2,4
+CONV-00075,2026-05-16 10:36:00,CUST-8527,"Customer: Hey, What are your customer support hours?
+Bot: Yes, you earn points on every purchase. You can see your balance under Rewards.
+Customer: Thanks, that's helpful.
+Bot: You're welcome! Have a great day.",General Query,mobile_app,True,False,3.8,4
+CONV-00180,2026-05-17 08:48:00,CUST-6038,"Customer: Hello, Does the premium plan include priority support?
+Bot: Yes, the premium plan includes priority support with faster response times.
+Customer: Okay, got it. Thanks for the help.
+Bot: Happy to help. Your issue has been marked as resolved.",Product Information,web,True,False,4.7,4
+CONV-00066,2026-05-17 10:43:00,CUST-5304,"Customer: Hello, I'm thinking of cancelling because the price went up.
+Bot: Here is an article that might help: Help Centre > Getting started.
+Customer: I don't want a discount, I just want to cancel.
+Bot: Your order has been cancelled and any payment will be refunded to the original method.
+Customer: Can I speak to a real person please?
+Bot: I'm transferring you to a human agent now. Please hold on.
+Agent: I've closed your account and sent you a confirmation email.
+Customer: Thank you, that's sorted then.",Cancellation,web,True,True,21.6,8
+CONV-00108,2026-05-17 19:20:00,CUST-2169,"Customer: Hey, My refund was approved but the amount is less than what I paid.
+Bot: Here is an article that might help: Help Centre > Getting started.
+Customer: I don't want store credit, I want my money back.
+Bot: I understand. Let me check that for you.
+Customer: Never mind.",Refund,messaging,False,False,4.4,5
+CONV-00096,2026-05-18 14:01:00,CUST-8517,"Customer: Hi. I see an extra charge on my invoice that I don't recognise.
+Bot: I understand. Let me check that for you.
+Customer: That's not what I asked. I was charged twice, not once.
+Bot: Your payment is confirmed. The invoice status updates within 24 hours; I've refreshed it for you now.
+Customer: I need to speak with a human, this is urgent.
+Bot: I'm transferring you to a human agent now. Please hold on.
+Agent: Thanks for waiting. I've corrected the invoice and emailed you the updated copy.
+Customer: Thank you, that's sorted then.",Billing,mobile_app,True,True,8.5,8
+CONV-00100,2026-05-18 15:47:00,CUST-3287,"Customer: Hello, Can I get a refund instead of store credit?
+Bot: I understand. Let me check that for you.
+Customer: It has been more than 7 business days already.
+Bot: I've created a ticket and escalated this to our specialist team. They will contact you by email within 24 hours.
+Customer: Okay. I hope it actually gets fixed this time.",Refund,web,False,True,18.2,5
+CONV-00168,2026-05-19 09:28:00,CUST-5315,"Customer: Hi. Can I change the delivery address for my order?
+Bot: I can help with that. Could you share a few more details?
+Customer: It's been more than 7 days and the money still hasn't come back.
+Bot: I understand. Let me check that for you.
+Customer: Hi. Can I change the delivery address for my order?
+Bot: Here is an article that might help: Help Centre > Getting started.
+Customer: Can I speak to a real person please?
+Bot: Sorry, all our agents are busy right now. Please try again later.
+Customer: That doesn't answer my question at all.",Order/Transaction,mobile_app,False,False,6.0,9
+CONV-00140,2026-05-19 09:43:00,CUST-6947,"Customer: Hey, What is the warranty period on this product?
+Bot: I understand. Let me check that for you.
+Customer: Can you be more specific about the limits?
+Bot: The product comes with a 12-month warranty covering manufacturing defects.
+Customer: That solved it, thanks.
+Bot: You're welcome! Have a great day.",Product Information,web,True,False,5.8,6
+CONV-00032,2026-05-19 19:45:00,CUST-3705,"Customer: Hello, I can't log in to my account, it keeps saying invalid password.
+Bot: You can update your email under Settings > Profile. You'll get a verification link at the new address.
+Customer: Thanks, that's helpful.
+Bot: Happy to help. Your issue has been marked as resolved.",Account/Login,mobile_app,True,False,2.4,4
+CONV-00094,2026-05-19 20:10:00,CUST-6881,"Customer: Hi. How long does a refund take?
+Bot: Here is an article that might help: Help Centre > Getting started.
+Customer: I don't want store credit, I want my money back.
+Bot: Refunds are issued to the original payment method within 5-7 business days after we receive the return.
+Customer: Please connect me to a live agent.
+Bot: I'm transferring you to a human agent now. Please hold on.
+Agent: I've reviewed your case and approved a refund of the shipping fee as well.
+Customer: Finally, thanks.",Refund,messaging,True,True,22.0,8
+CONV-00192,2026-05-20 18:27:00,CUST-6881,"Customer: I returned my item two weeks ago and still haven't got my refund.
+Bot: I can help with that. Could you share a few more details?
+Customer: It has been more than 7 business days already.
+Bot: Your refund was processed on the 3rd. It usually takes 5-7 business days to reach your bank.
+Customer: Thanks, that's helpful.
+Bot: Happy to help. Your issue has been marked as resolved.",Refund,web,True,False,2.9,6
+CONV-00197,2026-05-21 09:19:00,CUST-4432,"Customer: Hello, The website is showing an error 500 when I try to check out.
+Bot: We had a brief service disruption that is now fixed. Could you try again?
+Customer: Thanks, that's helpful.
+Bot: You're welcome! Have a great day.",Technical Issue,web,True,False,4.6,4
+CONV-00238,2026-05-21 10:43:00,CUST-4593,"Customer: I'm not able to sign in on the mobile app.
+Bot: Sorry, I didn't quite get that. Could you rephrase your question?
+Customer: It's still saying invalid password even after the reset.
+Bot: You can update your email under Settings > Profile. You'll get a verification link at the new address.
+Customer: That solved it, thanks.
+Bot: Happy to help. Your issue has been marked as resolved.",Account/Login,web,True,False,1.6,6
+CONV-00008,2026-05-21 11:42:00,CUST-5808,"Customer: Please cancel my order, I don't need it anymore.
+Bot: Sorry, I didn't quite get that. Could you rephrase your question?
+Customer: The cancel button doesn't work on the settings page.
+Bot: Your order has been cancelled and any payment will be refunded to the original method.
+Customer: Perfect, thank you so much.
+Bot: You're welcome! Have a great day.",Cancellation,web,True,False,4.4,6
+CONV-00166,2026-05-21 17:18:00,CUST-9317,"Customer: The export button isn't working, nothing downloads.
+Bot: Here is an article that might help: Help Centre > Getting started.
+Customer: Still getting the same error. This is the third time I'm trying.
+Bot: Sorry, I didn't quite get that. Could you rephrase your question?
+Customer: The export button isn't working, nothing downloads.
+Bot: Sorry, I didn't quite get that. Could you rephrase your question?
+Customer: Useless. I'll try again later.",Technical Issue,messaging,False,False,4.8,7
+CONV-00227,2026-05-21 22:09:00,CUST-2824,"Customer: What is the warranty period on this product?
+Bot: Here is an article that might help: Help Centre > Getting started.
+Customer: Can you be more specific about the limits?
+Bot: The pro plan adds team accounts, advanced reports and higher usage limits. You can compare plans on the pricing page.
+Customer: Great, that worked. Thanks!
+Bot: Glad I could help! Is there anything else I can do for you?",Product Information,web,True,False,1.7,6
+CONV-00112,2026-05-21 22:33:00,CUST-7916,"Customer: Can you explain the late fee on my latest bill?
+Bot: Sorry, I didn't quite get that. Could you rephrase your question?
+Customer: Again, the amount on my bill is wrong.
+Bot: I can see a duplicate charge on your account. I've raised a reversal and it should reflect in 3-5 business days.
+Customer: Great, that worked. Thanks!
+Bot: You're welcome! Have a great day.",Billing,mobile_app,True,False,3.3,6
+CONV-00173,2026-05-22 12:11:00,CUST-5119,"Customer: How do I close my account permanently?
+Bot: Sorry, I didn't quite get that. Could you rephrase your question?
+Customer: The cancel button doesn't work on the settings page.
+Bot: Sorry, I didn't quite get that. Could you rephrase your question?
+Customer: How do I close my account permanently?
+Bot: I understand. Let me check that for you.
+Customer: Useless. I'll try again later.",Cancellation,web,False,False,4.4,7
+CONV-00041,2026-05-22 22:04:00,CUST-4582,"Customer: Can I change the delivery address for my order?
+Bot: Sorry about that. I've arranged a free pickup and a replacement for the correct item.
+Customer: Great, that worked. Thanks!
+Bot: Glad I could help! Is there anything else I can do for you?",Order/Transaction,web,True,False,4.1,4
+CONV-00049,2026-05-23 08:12:00,CUST-7537,"Customer: Can you explain the late fee on my latest bill?
+Bot: I can see a duplicate charge on your account. I've raised a reversal and it should reflect in 3-5 business days.
+Customer: Thanks, that's helpful.
+Bot: You're welcome! Have a great day.",Billing,mobile_app,True,False,3.8,4
+CONV-00003,2026-05-23 21:55:00,CUST-7924,"Customer: Hi. I forgot my password and the reset email never arrives.
+Bot: I can help with that. Could you share a few more details?
+Customer: I still haven't received the reset email.
+Bot: I've re-sent the verification code. It can take up to two minutes to arrive.
+Customer: Okay, got it. Thanks for the help.
+Bot: You're welcome! Have a great day.",Account/Login,web,True,False,4.8,6
+CONV-00236,2026-05-24 09:12:00,CUST-7916,"Customer: Hey, How do I change the email address on my account?
+Bot: You can update your email under Settings > Profile. You'll get a verification link at the new address.
+Customer: Okay, got it. Thanks for the help.
+Bot: Happy to help. Your issue has been marked as resolved.",Account/Login,mobile_app,True,False,3.5,4
+CONV-00202,2026-05-24 17:17:00,CUST-2133,"Customer: Hey, I want to give some feedback about the new design.
+Bot: Hi! I'm the virtual assistant. How can I help you today?
+Customer: Okay, got it. Thanks for the help.
+Bot: Glad I could help! Is there anything else I can do for you?",Other,web,True,False,5.2,4
+CONV-00029,2026-05-25 11:55:00,CUST-2535,"Customer: Hi. What's the difference between the basic and pro plans?
+Bot: I can help with that. Could you share a few more details?
+Customer: Can you be more specific about the limits?
+Bot: Yes, the premium plan includes priority support with faster response times.
+Customer: Great, that worked. Thanks!
+Bot: Happy to help. Your issue has been marked as resolved.",Product Information,web,True,False,3.6,6
+CONV-00196,2026-05-25 19:05:00,CUST-2832,"Customer: The export button isn't working, nothing downloads.
+Bot: Try logging out and back in, then retry the export. It should download as a CSV file.
+Customer: Thanks, that's helpful.
+Bot: You're welcome! Have a great day.",Technical Issue,mobile_app,True,False,4.4,4
+CONV-00018,2026-05-26 07:33:00,CUST-2832,"Customer: Hello, I have a question about something else.
+Bot: Thanks for the feedback, I've passed it on to our product team.
+Customer: Great, that worked. Thanks!
+Bot: Happy to help. Your issue has been marked as resolved.",Other,mobile_app,True,False,5.7,4
+CONV-00056,2026-05-26 10:48:00,CUST-7924,"Customer: Hi. I'm getting a blank screen after the latest update.
+Bot: I can help with that. Could you share a few more details?
+Customer: Nothing has changed, it's still not working.
+Bot: I can help with that. Could you share a few more details?
+Customer: Hi. I'm getting a blank screen after the latest update.
+Bot: Here is an article that might help: Help Centre > Getting started.
+Customer: This isn't helping. Forget it.",Technical Issue,web,False,False,4.4,7
+CONV-00110,2026-05-27 09:51:00,CUST-6155,"Customer: Hello?
+Bot: Thanks for the feedback, I've passed it on to our product team.
+Customer: Perfect, thank you so much.
+Bot: Happy to help. Your issue has been marked as resolved.",Other,mobile_app,True,False,4.6,4
+CONV-00012,2026-05-27 20:35:00,CUST-7873,"Customer: Can I change the delivery address for my order?
+Bot: Failed payments are automatically reversed by the bank within 5-7 business days.
+Customer: Okay, got it. Thanks for the help.
+Bot: Glad I could help! Is there anything else I can do for you?",Order/Transaction,messaging,True,False,1.5,4
+CONV-00143,2026-05-28 08:15:00,CUST-3504,"Customer: This is the worst service I've ever had. Nobody is helping me.
+Bot: I'm really sorry about your experience. I've logged a formal complaint and a team member will follow up within 24 hours.
+Customer: Thanks, that's helpful.
+Bot: Glad I could help! Is there anything else I can do for you?",Complaint,web,True,False,4.8,4
+CONV-00138,2026-05-29 08:35:00,CUST-3286,"Customer: Hi. I can't log in to my account, it keeps saying invalid password.
+Bot: I understand. Let me check that for you.
+Customer: I still haven't received the reset email.
+Bot: I've re-sent the verification code. It can take up to two minutes to arrive.
+Customer: I want to talk to a human agent.
+Bot: I'm transferring you to a human agent now. Please hold on.
+Agent: I've updated the phone number on your account, so the codes will now arrive correctly.
+Customer: Finally, thanks.",Account/Login,web,True,True,20.5,8
+CONV-00116,2026-05-29 09:44:00,CUST-2876,"Customer: My order status hasn't changed in four days.
+Bot: Here is an article that might help: Help Centre > Getting started.
+Customer: It's been more than 7 days and the money still hasn't come back.
+Bot: Failed payments are automatically reversed by the bank within 5-7 business days.
+Customer: That solved it, thanks.
+Bot: You're welcome! Have a great day.",Order/Transaction,web,True,False,1.8,6
+CONV-00034,2026-05-29 11:27:00,CUST-1009,"Customer: Hi. Hi, I was charged twice for my subscription this month.
+Bot: Your payment is confirmed. The invoice status updates within 24 hours; I've refreshed it for you now.
+Customer: Okay, got it. Thanks for the help.
+Bot: Happy to help. Your issue has been marked as resolved.",Billing,messaging,True,False,2.3,4
+CONV-00038,2026-05-29 15:19:00,CUST-6514,"Customer: Hello, I want a refund for a product that arrived damaged.
+Bot: I understand. Let me check that for you.
+Customer: That doesn't answer why I got less money back.
+Bot: I'm sorry the product was damaged. I've initiated a full refund; no return is needed.
+Customer: Okay, got it. Thanks for the help.
+Bot: Happy to help. Your issue has been marked as resolved.",Refund,mobile_app,True,False,2.6,6
+CONV-00078,2026-05-29 17:10:00,CUST-9179,"Customer: I forgot my password and the reset email never arrives.
+Bot: I can help with that. Could you share a few more details?
+Customer: I still haven't received the reset email.
+Bot: Your account has been unlocked. You can try signing in again now.
+Customer: That solved it, thanks.
+Bot: You're welcome! Have a great day.",Account/Login,mobile_app,True,False,3.2,6
+CONV-00136,2026-05-29 18:26:00,CUST-2832,"Customer: Can I get a refund instead of store credit?
+Bot: Sorry, I didn't quite get that. Could you rephrase your question?
+Customer: I don't want store credit, I want my money back.
+Bot: I've created a ticket and escalated this to our specialist team. They will contact you by email within 24 hours.
+Customer: I'll wait for the follow-up, but I'm not happy.",Refund,mobile_app,False,True,23.3,5
+CONV-00063,2026-05-29 18:43:00,CUST-3677,"Customer: I need a copy of my invoice for last month for my records.
+Bot: I understand. Let me check that for you.
+Customer: Again, the amount on my bill is wrong.
+Bot: Here is an article that might help: Help Centre > Getting started.
+Customer: I need a copy of my invoice for last month for my records.
+Bot: I understand. Let me check that for you.
+Customer: I need to speak with a human, this is urgent.
+Bot: Sorry, all our agents are busy right now. Please try again later.
+Customer: This isn't helping. Forget it.",Billing,mobile_app,False,False,4.9,9
+CONV-00150,2026-05-30 10:51:00,CUST-8433,"Customer: Hey, Pages are loading really slowly for me today.
+Bot: Here is an article that might help: Help Centre > Getting started.
+Customer: Still getting the same error. This is the third time I'm trying.
+Bot: Try logging out and back in, then retry the export. It should download as a CSV file.
+Customer: Thanks, that's helpful.
+Bot: You're welcome! Have a great day.",Technical Issue,mobile_app,True,False,5.9,6
+CONV-00031,2026-05-30 15:49:00,CUST-4527,"Customer: How do I close my account permanently?
+Bot: Sorry, I didn't quite get that. Could you rephrase your question?
+Customer: I don't want a discount, I just want to cancel.
+Bot: You can close your account under Settings > Account > Close account. Would you like me to do it for you?
+Customer: Transfer me to customer service, this bot isn't helping.
+Bot: I'm transferring you to a human agent now. Please hold on.
+Agent: Hi, I'm from the customer care team. I've cancelled your plan and confirmed no further charges will be made.
+Customer: Thank you, that's sorted then.",Cancellation,mobile_app,True,True,16.9,8
+CONV-00045,2026-05-30 16:44:00,CUST-7216,"Customer: What are your customer support hours?
+Bot: Sorry, I didn't quite get that. Could you rephrase your question?
+Customer: Where exactly on the page? I can't find it.
+Bot: Yes, you earn points on every purchase. You can see your balance under Rewards.
+Customer: That solved it, thanks.
+Bot: Glad I could help! Is there anything else I can do for you?",General Query,mobile_app,True,False,3.3,6
+CONV-00035,2026-05-30 19:21:00,CUST-4150,"Customer: Hello, The export button isn't working, nothing downloads.
+Bot: Here is an article that might help: Help Centre > Getting started.
+Customer: Still getting the same error. This is the third time I'm trying.
+Bot: We had a brief service disruption that is now fixed. Could you try again?
+Customer: I want to talk to a human agent.
+Bot: I'm transferring you to a human agent now. Please hold on.
+Agent: I've reproduced the issue and pushed a fix to your account settings. Please restart the app.
+Customer: I'll wait for the follow-up, but I'm not happy.",Technical Issue,web,False,True,19.2,8
+CONV-00027,2026-06-01 07:22:00,CUST-2489,"Customer: Hello, I'm not able to sign in on the mobile app.
+Bot: I've sent a new password reset link. Please check your spam folder as well; the link is valid for 30 minutes.
+Customer: Thanks, that's helpful.
+Bot: You're welcome! Have a great day.",Account/Login,messaging,True,False,2.8,4
+CONV-00062,2026-06-01 16:47:00,CUST-4527,"Customer: Hello, Can I change the delivery address for my order?
+Bot: I've updated the delivery address. You'll receive a confirmation email shortly.
+Customer: Perfect, thank you so much.
+Bot: You're welcome! Have a great day.",Order/Transaction,web,True,False,5.4,4
+CONV-00040,2026-06-02 10:55:00,CUST-6313,"Customer: My payment went through but the invoice still shows as unpaid.
+Bot: The late fee was applied because the payment was received after the due date. I've applied a one-time courtesy waiver.
+Customer: Perfect, thank you so much.
+Bot: Happy to help. Your issue has been marked as resolved.",Billing,web,True,False,1.6,4
+CONV-00177,2026-06-02 12:35:00,CUST-1916,"Customer: How do I track my shipment?
+Bot: Sorry about that. I've arranged a free pickup and a replacement for the correct item.
+Customer: That solved it, thanks.
+Bot: Glad I could help! Is there anything else I can do for you?",Order/Transaction,web,True,False,2.3,4
+CONV-00145,2026-06-03 08:22:00,CUST-9348,"Customer: Hello, Notifications stopped working on my phone.
+Bot: We had a brief service disruption that is now fixed. Could you try again?
+Customer: That solved it, thanks.
+Bot: Happy to help. Your issue has been marked as resolved.",Technical Issue,mobile_app,True,False,5.7,4
+CONV-00194,2026-06-03 09:33:00,CUST-5012,"Customer: The export button isn't working, nothing downloads.
+Bot: Please check that notifications are enabled for the app in your phone settings.
+Customer: Great, that worked. Thanks!
+Bot: Glad I could help! Is there anything else I can do for you?",Technical Issue,messaging,True,False,5.5,4
+CONV-00164,2026-06-03 11:04:00,CUST-5422,"Customer: I want to give some feedback about the new design.
+Bot: Sorry, I didn't quite get that. Could you rephrase your question?
+Customer: You're not understanding my question.
+Bot: Thanks for the feedback, I've passed it on to our product team.
+Customer: Okay, got it. Thanks for the help.
+Bot: You're welcome! Have a great day.",Other,web,True,False,2.3,6
+CONV-00048,2026-06-03 16:42:00,CUST-4923,"Customer: My payment failed but money was deducted from my account.
+Bot: I've updated the delivery address. You'll receive a confirmation email shortly.
+Customer: That solved it, thanks.
+Bot: Happy to help. Your issue has been marked as resolved.",Order/Transaction,web,True,False,5.8,4
+CONV-00152,2026-06-03 17:16:00,CUST-9317,"Customer: My payment failed but money was deducted from my account.
+Bot: Sorry about that. I've arranged a free pickup and a replacement for the correct item.
+Customer: Thanks, that's helpful.
+Bot: Glad I could help! Is there anything else I can do for you?",Order/Transaction,messaging,True,False,4.9,4
+CONV-00104,2026-06-03 18:59:00,CUST-8573,"Customer: Hi. Can I change the delivery address for my order?
+Bot: Failed payments are automatically reversed by the bank within 5-7 business days.
+Customer: That solved it, thanks.
+Bot: Happy to help. Your issue has been marked as resolved.",Order/Transaction,mobile_app,True,False,5.1,4
+CONV-00114,2026-06-04 12:37:00,CUST-8527,"Customer: Do you have a loyalty programme?
+Bot: Sorry, I didn't quite get that. Could you rephrase your question?
+Customer: Where exactly on the page? I can't find it.
+Bot: Sorry, I didn't quite get that. Could you rephrase your question?
+Customer: This isn't helping. Forget it.",General Query,web,False,False,5.7,5
+CONV-00052,2026-06-04 15:52:00,CUST-6168,"Customer: Hello, Can I get a refund instead of store credit?
+Bot: Sorry, I didn't quite get that. Could you rephrase your question?
+Customer: It has been more than 7 business days already.
+Bot: I'm sorry the product was damaged. I've initiated a full refund; no return is needed.
+Customer: That solved it, thanks.
+Bot: You're welcome! Have a great day.",Refund,mobile_app,True,False,1.5,6
+CONV-00087,2026-06-04 19:29:00,CUST-1520,"Customer: Hi, I was charged twice for my subscription this month.
+Bot: I can see a duplicate charge on your account. I've raised a reversal and it should reflect in 3-5 business days.
+Customer: Thanks, that's helpful.
+Bot: Happy to help. Your issue has been marked as resolved.",Billing,web,True,False,4.1,4
+CONV-00024,2026-06-04 20:53:00,CUST-5371,"Customer: Hello, Does the app work offline?
+Bot: Yes, we ship to most countries. Shipping costs are shown at checkout.
+Customer: That solved it, thanks.
+Bot: Happy to help. Your issue has been marked as resolved.",Product Information,messaging,True,False,5.6,4
+CONV-00084,2026-06-05 13:57:00,CUST-5040,"Customer: Hi. I want a refund for a product that arrived damaged.
+Bot: Here is an article that might help: Help Centre > Getting started.
+Customer: It has been more than 7 business days already.
+Bot: Here is an article that might help: Help Centre > Getting started.
+Customer: I want to talk to a human agent.
+Bot: Sorry, all our agents are busy right now. Please try again later.
+Customer: Never mind.",Refund,mobile_app,False,False,5.0,7
+CONV-00036,2026-06-06 13:05:00,CUST-7916,"Customer: I'm getting a blank screen after the latest update.
+Bot: Try logging out and back in, then retry the export. It should download as a CSV file.
+Customer: Thanks, that's helpful.
+Bot: Glad I could help! Is there anything else I can do for you?",Technical Issue,web,True,False,2.6,4
+CONV-00189,2026-06-06 21:00:00,CUST-6514,"Customer: My refund was approved but the amount is less than what I paid.
+Bot: I can help with that. Could you share a few more details?
+Customer: It has been more than 7 business days already.
+Bot: Refunds are issued to the original payment method within 5-7 business days after we receive the return.
+Customer: Transfer me to customer service, this bot isn't helping.
+Bot: I'm transferring you to a human agent now. Please hold on.
+Agent: Hi, I'm a refunds specialist. I've escalated your refund to priority processing; you'll receive it within 48 hours.
+Customer: Thank you, that's sorted then.",Refund,messaging,True,True,11.0,8
+CONV-00023,2026-06-06 21:03:00,CUST-2674,"Customer: Hey, I've contacted support four times about the same problem and it's still not fixed.
+Bot: Sorry, I didn't quite get that. Could you rephrase your question?
+Customer: I don't want an apology, I want this fixed.
+Bot: I'm really sorry about your experience. I've logged a formal complaint and a team member will follow up within 24 hours.
+Customer: I want to talk to a human agent.
+Bot: I'm transferring you to a human agent now. Please hold on.
+Agent: I'm sorry for the repeated trouble. I've arranged a replacement and a goodwill credit.
+Customer: Okay, thank you for fixing it.",Complaint,web,True,True,22.7,8
+CONV-00010,2026-06-07 07:42:00,CUST-6168,"Customer: Hello, Notifications stopped working on my phone.
+Bot: Try logging out and back in, then retry the export. It should download as a CSV file.
+Customer: Thanks, that's helpful.
+Bot: Happy to help. Your issue has been marked as resolved.",Technical Issue,messaging,True,False,5.2,4
+CONV-00157,2026-06-07 08:14:00,CUST-8962,"Customer: Hi. Can you explain the late fee on my latest bill?
+Bot: The late fee was applied because the payment was received after the due date. I've applied a one-time courtesy waiver.
+Customer: Thanks, that's helpful.
+Bot: Glad I could help! Is there anything else I can do for you?",Billing,web,True,False,2.5,4
+CONV-00182,2026-06-08 15:38:00,CUST-4483,"Customer: Hello, How long does a refund take?
+Bot: Sorry, I didn't quite get that. Could you rephrase your question?
+Customer: It has been more than 7 business days already.
+Bot: Your refund was processed on the 3rd. It usually takes 5-7 business days to reach your bank.
+Customer: Thanks, that's helpful.
+Bot: You're welcome! Have a great day.",Refund,messaging,True,False,3.9,6
+CONV-00218,2026-06-09 16:11:00,CUST-1106,"Customer: Hello, My payment went through but the invoice still shows as unpaid.
+Bot: Sorry, I didn't quite get that. Could you rephrase your question?
+Customer: Again, the amount on my bill is wrong.
+Bot: Sorry, I didn't quite get that. Could you rephrase your question?
+Customer: That doesn't answer my question at all.",Billing,web,False,False,3.7,5
+CONV-00101,2026-06-09 17:52:00,CUST-8123,"Customer: Hello, Please cancel my order, I don't need it anymore.
+Bot: You can close your account under Settings > Account > Close account. Would you like me to do it for you?
+Customer: Great, that worked. Thanks!
+Bot: You're welcome! Have a great day.",Cancellation,messaging,True,False,4.4,4
+CONV-00224,2026-06-09 19:06:00,CUST-9727,"Customer: I received the wrong item in my order.
+Bot: Sorry about that. I've arranged a free pickup and a replacement for the correct item.
+Customer: That solved it, thanks.
+Bot: You're welcome! Have a great day.",Order/Transaction,mobile_app,True,False,5.2,4
+CONV-00230,2026-06-10 08:53:00,CUST-1009,"Customer: Hey, Please cancel my order, I don't need it anymore.
+Bot: Before you go, you're eligible for a 20% discount for the next three months. Would you like to apply it?
+Customer: Thanks, that's helpful.
+Bot: Glad I could help! Is there anything else I can do for you?",Cancellation,web,True,False,3.2,4
+CONV-00210,2026-06-10 14:06:00,CUST-6881,"Customer: Hi, I was charged twice for my subscription this month.
+Bot: Your payment is confirmed. The invoice status updates within 24 hours; I've refreshed it for you now.
+Customer: That solved it, thanks.
+Bot: Happy to help. Your issue has been marked as resolved.",Billing,web,True,False,3.6,4
+CONV-00178,2026-06-11 22:26:00,CUST-7304,"Customer: Pages are loading really slowly for me today.
+Bot: I can help with that. Could you share a few more details?
+Customer: Still getting the same error. This is the third time I'm trying.
+Bot: We had a brief service disruption that is now fixed. Could you try again?
+Customer: Perfect, thank you so much.
+Bot: You're welcome! Have a great day.",Technical Issue,mobile_app,True,False,4.6,6
+CONV-00237,2026-06-12 07:11:00,CUST-2307,"Customer: Does the app work offline?
+Bot: Sorry, I didn't quite get that. Could you rephrase your question?
+Customer: That's not what I asked, I wanted to know about the size.
+Bot: Here is an article that might help: Help Centre > Getting started.
+Customer: Never mind.",Product Information,mobile_app,False,False,2.4,5
+CONV-00057,2026-06-12 12:10:00,CUST-9348,"Customer: Please cancel my order, I don't need it anymore.
+Bot: Here is an article that might help: Help Centre > Getting started.
+Customer: I've asked to cancel twice now.
+Bot: Your order has been cancelled and any payment will be refunded to the original method.
+Customer: Transfer me to customer service, this bot isn't helping.
+Bot: I'm transferring you to a human agent now. Please hold on.
+Agent: Hi, I'm from the customer care team. I've cancelled your plan and confirmed no further charges will be made.
+Customer: Finally, thanks.",Cancellation,mobile_app,True,True,16.0,8
+CONV-00200,2026-06-12 12:23:00,CUST-6574,"Customer: Hi. Can I get a refund instead of store credit?
+Bot: I'm sorry the product was damaged. I've initiated a full refund; no return is needed.
+Customer: Great, that worked. Thanks!
+Bot: You're welcome! Have a great day.",Refund,messaging,True,False,2.2,4
+CONV-00231,2026-06-13 11:07:00,CUST-7201,"Customer: Hi. How do I track my shipment?
+Bot: I understand. Let me check that for you.
+Customer: It's been more than 7 days and the money still hasn't come back.
+Bot: Your order is out for delivery and should arrive today. You can track it under Orders > Track shipment.
+Customer: Transfer me to customer service, this bot isn't helping.
+Bot: I'm transferring you to a human agent now. Please hold on.
+Agent: Hi, I'm from the orders team. I've contacted the courier and your package will be delivered tomorrow.
+Customer: Okay, thank you for fixing it.",Order/Transaction,messaging,True,True,17.0,8
+CONV-00059,2026-06-13 18:36:00,CUST-1525,"Customer: Hi. I received the wrong item in my order.
+Bot: Your order is out for delivery and should arrive today. You can track it under Orders > Track shipment.
+Customer: Perfect, thank you so much.
+Bot: You're welcome! Have a great day.",Order/Transaction,web,True,False,2.8,4
+CONV-00185,2026-06-14 07:55:00,CUST-1106,"Customer: Hi. Does the app work offline?
+Bot: Here is an article that might help: Help Centre > Getting started.
+Customer: Can you be more specific about the limits?
+Bot: The product comes with a 12-month warranty covering manufacturing defects.
+Customer: That solved it, thanks.
+Bot: You're welcome! Have a great day.",Product Information,mobile_app,True,False,5.0,6
+CONV-00211,2026-06-14 15:58:00,CUST-3286,"Customer: Why is my bill higher than usual this month?
+Bot: Sorry, I didn't quite get that. Could you rephrase your question?
+Customer: I already checked the invoices page, the extra charge is still there.
+Bot: Here is an article that might help: Help Centre > Getting started.
+Customer: This isn't helping. Forget it.",Billing,messaging,False,False,5.2,5
+CONV-00061,2026-06-14 18:46:00,CUST-1525,"Customer: Hey, What's the difference between the basic and pro plans?
+Bot: I can help with that. Could you share a few more details?
+Customer: That's not what I asked, I wanted to know about the size.
+Bot: Yes, we ship to most countries. Shipping costs are shown at checkout.
+Customer: That solved it, thanks.
+Bot: Glad I could help! Is there anything else I can do for you?",Product Information,web,True,False,2.1,6
+CONV-00221,2026-06-15 12:24:00,CUST-1525,"Customer: Hi. My order status hasn't changed in four days.
+Bot: Here is an article that might help: Help Centre > Getting started.
+Customer: The tracking page just says 'in transit' and nothing else.
+Bot: I've updated the delivery address. You'll receive a confirmation email shortly.
+Customer: Perfect, thank you so much.
+Bot: Happy to help. Your issue has been marked as resolved.",Order/Transaction,web,True,False,2.9,6
+CONV-00148,2026-06-15 13:30:00,CUST-8517,"Customer: Hey, The two-factor code isn't coming through to my phone.
+Bot: I've sent a new password reset link. Please check your spam folder as well; the link is valid for 30 minutes.
+Customer: Great, that worked. Thanks!
+Bot: Glad I could help! Is there anything else I can do for you?",Account/Login,web,True,False,2.4,4
+CONV-00123,2026-06-15 17:32:00,CUST-1319,"Customer: Hi. My payment went through but the invoice still shows as unpaid.
+Bot: I understand. Let me check that for you.
+Customer: That's not what I asked. I was charged twice, not once.
+Bot: Sorry, I didn't quite get that. Could you rephrase your question?
+Customer: Hi. My payment went through but the invoice still shows as unpaid.
+Bot: Here is an article that might help: Help Centre > Getting started.
+Customer: I need to speak with a human, this is urgent.
+Bot: Sorry, all our agents are busy right now. Please try again later.
+Customer: Still not working. I give up.",Billing,web,False,False,5.2,9
+CONV-00074,2026-06-15 17:42:00,CUST-9830,"Customer: Your delivery partner was rude and left my parcel outside in the rain.
+Bot: I'm really sorry about your experience. I've logged a formal complaint and a team member will follow up within 24 hours.
+Customer: Thanks, that's helpful.
+Bot: Glad I could help! Is there anything else I can do for you?",Complaint,messaging,True,False,2.1,4
+CONV-00149,2026-06-17 13:25:00,CUST-1949,"Customer: What are your customer support hours?
+Bot: The privacy policy is linked at the bottom of every page.
+Customer: Perfect, thank you so much.
+Bot: Happy to help. Your issue has been marked as resolved.",General Query,web,True,False,5.6,4
+CONV-00060,2026-06-17 18:14:00,CUST-6107,"Customer: I'm really frustrated, the product stopped working after one week.
+Bot: I can help with that. Could you share a few more details?
+Customer: You're not listening. This is the same problem again.
+Bot: I understand. Let me check that for you.
+Customer: Useless. I'll try again later.",Complaint,web,False,False,4.4,5
+CONV-00097,2026-06-18 07:57:00,CUST-9751,"Customer: Hi. I need a copy of my invoice for last month for my records.
+Bot: Your bill includes a one-time plan upgrade charge from the 12th. You can view the itemised invoice under Billing > Invoices.
+Customer: That solved it, thanks.
+Bot: You're welcome! Have a great day.",Billing,web,True,False,1.9,4
+CONV-00118,2026-06-18 20:15:00,CUST-9785,"Customer: Hi, I was charged twice for my subscription this month.
+Bot: I can see a duplicate charge on your account. I've raised a reversal and it should reflect in 3-5 business days.
+Customer: Okay, got it. Thanks for the help.
+Bot: You're welcome! Have a great day.",Billing,mobile_app,True,False,5.8,4
+CONV-00126,2026-06-18 22:55:00,CUST-9279,"Customer: Hi. My order status hasn't changed in four days.
+Bot: Failed payments are automatically reversed by the bank within 5-7 business days.
+Customer: That solved it, thanks.
+Bot: Happy to help. Your issue has been marked as resolved.",Order/Transaction,mobile_app,True,False,5.3,4
+CONV-00098,2026-06-19 21:04:00,CUST-5342,"Customer: Hello, The two-factor code isn't coming through to my phone.
+Bot: Here is an article that might help: Help Centre > Getting started.
+Customer: I still haven't received the reset email.
+Bot: You can update your email under Settings > Profile. You'll get a verification link at the new address.
+Customer: I want to talk to a human agent.
+Bot: I'm transferring you to a human agent now. Please hold on.
+Agent: Hi, I'm from the account security team. I've verified your identity and reset your login manually.
+Customer: Okay, thank you for fixing it.",Account/Login,mobile_app,True,True,20.5,8
+CONV-00025,2026-06-20 14:17:00,CUST-1916,"Customer: What's the difference between the basic and pro plans?
+Bot: Yes, we ship to most countries. Shipping costs are shown at checkout.
+Customer: Thanks, that's helpful.
+Bot: You're welcome! Have a great day.",Product Information,web,True,False,3.5,4
+CONV-00184,2026-06-20 15:40:00,CUST-6573,"Customer: Hey, The export button isn't working, nothing downloads.
+Bot: Please check that notifications are enabled for the app in your phone settings.
+Customer: Perfect, thank you so much.
+Bot: Happy to help. Your issue has been marked as resolved.",Technical Issue,web,True,False,3.4,4
+CONV-00204,2026-06-21 07:21:00,CUST-3266,"Customer: Hi. Pages are loading really slowly for me today.
+Bot: I understand. Let me check that for you.
+Customer: I already updated the app and cleared the cache, it still crashes.
+Bot: Sorry, I didn't quite get that. Could you rephrase your question?
+Customer: Hi. Pages are loading really slowly for me today.
+Bot: I understand. Let me check that for you.
+Customer: I need to speak with a human, this is urgent.
+Bot: Sorry, all our agents are busy right now. Please try again later.
+Customer: Still not working. I give up.",Technical Issue,mobile_app,False,False,1.5,9
+CONV-00222,2026-06-21 10:59:00,CUST-7482,"Customer: Hello, Do you ship internationally?
+Bot: I can help with that. Could you share a few more details?
+Customer: That's not what I asked, I wanted to know about the size.
+Bot: Here is an article that might help: Help Centre > Getting started.
+Customer: Useless. I'll try again later.",Product Information,mobile_app,False,False,3.7,5
+CONV-00161,2026-06-21 11:47:00,CUST-8019,"Customer: I need a copy of my invoice for last month for my records.
+Bot: I can help with that. Could you share a few more details?
+Customer: That's not what I asked. I was charged twice, not once.
+Bot: The late fee was applied because the payment was received after the due date. I've applied a one-time courtesy waiver.
+Customer: Perfect, thank you so much.
+Bot: You're welcome! Have a great day.",Billing,web,True,False,3.3,6
+CONV-00130,2026-06-21 14:03:00,CUST-7482,"Customer: How do I close my account permanently?
+Bot: Here is an article that might help: Help Centre > Getting started.
+Customer: The cancel button doesn't work on the settings page.
+Bot: Here is an article that might help: Help Centre > Getting started.
+Customer: How do I close my account permanently?
+Bot: Sorry, I didn't quite get that. Could you rephrase your question?
+Customer: I need to speak with a human, this is urgent.
+Bot: Sorry, all our agents are busy right now. Please try again later.
+Customer: Useless. I'll try again later.",Cancellation,mobile_app,False,False,2.0,9
+CONV-00153,2026-06-22 08:33:00,CUST-7873,"Customer: Please cancel my order, I don't need it anymore.
+Bot: Sorry, I didn't quite get that. Could you rephrase your question?
+Customer: I don't want a discount, I just want to cancel.
+Bot: Before you go, you're eligible for a 20% discount for the next three months. Would you like to apply it?
+Customer: Perfect, thank you so much.
+Bot: Happy to help. Your issue has been marked as resolved.",Cancellation,messaging,True,False,1.7,6
+CONV-00115,2026-06-22 15:41:00,CUST-6107,"Customer: Can I get a refund instead of store credit?
+Bot: I can help with that. Could you share a few more details?
+Customer: It has been more than 7 business days already.
+Bot: I've created a ticket and escalated this to our specialist team. They will contact you by email within 24 hours.
+Customer: I'll wait for the follow-up, but I'm not happy.",Refund,mobile_app,False,True,15.6,5
+CONV-00054,2026-06-23 11:31:00,CUST-2519,"Customer: Hey, Do you ship internationally?
+Bot: The product comes with a 12-month warranty covering manufacturing defects.
+Customer: That solved it, thanks.
+Bot: Happy to help. Your issue has been marked as resolved.",Product Information,mobile_app,True,False,5.8,4
+CONV-00183,2026-06-23 11:44:00,CUST-2169,"Customer: Hello, Notifications stopped working on my phone.
+Bot: I can help with that. Could you share a few more details?
+Customer: I already updated the app and cleared the cache, it still crashes.
+Bot: Please check that notifications are enabled for the app in your phone settings.
+Customer: Great, that worked. Thanks!
+Bot: You're welcome! Have a great day.",Technical Issue,web,True,False,5.4,6
+CONV-00021,2026-06-23 17:29:00,CUST-7227,"Customer: Pages are loading really slowly for me today.
+Bot: Here is an article that might help: Help Centre > Getting started.
+Customer: I already updated the app and cleared the cache, it still crashes.
+Bot: Please check that notifications are enabled for the app in your phone settings.
+Customer: Thanks, that's helpful.
+Bot: Happy to help. Your issue has been marked as resolved.",Technical Issue,mobile_app,True,False,3.5,6
+CONV-00188,2026-06-23 18:16:00,CUST-7201,"Customer: Hey, Please cancel my order, I don't need it anymore.
+Bot: You can close your account under Settings > Account > Close account. Would you like me to do it for you?
+Customer: Okay, got it. Thanks for the help.
+Bot: Glad I could help! Is there anything else I can do for you?",Cancellation,web,True,False,1.9,4
+CONV-00064,2026-06-23 20:07:00,CUST-7572,"Customer: I'm very unhappy with how my issue has been handled.
+Bot: Here is an article that might help: Help Centre > Getting started.
+Customer: You're not listening. This is the same problem again.
+Bot: I'm really sorry about your experience. I've logged a formal complaint and a team member will follow up within 24 hours.
+Customer: I want to talk to a human agent.
+Bot: I'm transferring you to a human agent now. Please hold on.
+Agent: I'm sorry for the repeated trouble. I've arranged a replacement and a goodwill credit.
+Customer: Okay. I hope it actually gets fixed this time.",Complaint,messaging,False,True,21.3,8
+CONV-00019,2026-06-24 10:46:00,CUST-7126,"Customer: Do you have a loyalty programme?
+Bot: I understand. Let me check that for you.
+Customer: I meant weekend hours specifically.
+Bot: Yes, you earn points on every purchase. You can see your balance under Rewards.
+Customer: Thanks, that's helpful.
+Bot: You're welcome! Have a great day.",General Query,web,True,False,5.6,6
+CONV-00198,2026-06-24 12:07:00,CUST-6881,"Customer: Hi. My payment went through but the invoice still shows as unpaid.
+Bot: I can see a duplicate charge on your account. I've raised a reversal and it should reflect in 3-5 business days.
+Customer: Okay, got it. Thanks for the help.
+Bot: Happy to help. Your issue has been marked as resolved.",Billing,mobile_app,True,False,1.6,4
+CONV-00044,2026-06-24 13:27:00,CUST-6977,"Customer: Hey, How do I change the email address on my account?
+Bot: I can help with that. Could you share a few more details?
+Customer: The code still isn't coming. I've tried three times already.
+Bot: Sorry, I didn't quite get that. Could you rephrase your question?
+Customer: Never mind.",Account/Login,mobile_app,False,False,2.0,5
+CONV-00070,2026-06-24 16:29:00,CUST-9935,"Customer: Do you ship internationally?
+Bot: The pro plan adds team accounts, advanced reports and higher usage limits. You can compare plans on the pricing page.
+Customer: Thanks, that's helpful.
+Bot: Glad I could help! Is there anything else I can do for you?",Product Information,web,True,False,4.4,4
+CONV-00099,2026-06-25 09:33:00,CUST-4257,"Customer: Hey, How long does a refund take?
+Bot: Here is an article that might help: Help Centre > Getting started.
+Customer: I don't want store credit, I want my money back.
+Bot: I can help with that. Could you share a few more details?
+Customer: Transfer me to customer service, this bot isn't helping.
+Bot: Sorry, all our agents are busy right now. Please try again later.
+Customer: Useless. I'll try again later.",Refund,messaging,False,False,5.9,7
+CONV-00091,2026-06-25 09:41:00,CUST-3646,"Customer: Cancel my plan before the next renewal date.
+Bot: I can help with that. Could you share a few more details?
+Customer: I've asked to cancel twice now.
+Bot: I understand. Let me check that for you.
+Customer: Useless. I'll try again later.",Cancellation,web,False,False,4.5,5
+CONV-00020,2026-06-25 19:43:00,CUST-5803,"Customer: How do I track my shipment?
+Bot: Failed payments are automatically reversed by the bank within 5-7 business days.
+Customer: Perfect, thank you so much.
+Bot: You're welcome! Have a great day.",Order/Transaction,mobile_app,True,False,4.9,4
+CONV-00065,2026-06-25 20:37:00,CUST-8527,"Customer: Hello, Why is my bill higher than usual this month?
+Bot: Your payment is confirmed. The invoice status updates within 24 hours; I've refreshed it for you now.
+Customer: That solved it, thanks.
+Bot: You're welcome! Have a great day.",Billing,messaging,True,False,4.8,4
+CONV-00079,2026-06-26 09:17:00,CUST-8668,"Customer: How long does a refund take?
+Bot: Refunds are issued to the original payment method within 5-7 business days after we receive the return.
+Customer: Thanks, that's helpful.
+Bot: Glad I could help! Is there anything else I can do for you?",Refund,web,True,False,3.5,4
+CONV-00011,2026-06-27 15:32:00,CUST-4582,"Customer: Hi, I was charged twice for my subscription this month.
+Bot: Sorry, I didn't quite get that. Could you rephrase your question?
+Customer: I already checked the invoices page, the extra charge is still there.
+Bot: The late fee was applied because the payment was received after the due date. I've applied a one-time courtesy waiver.
+Customer: I need to speak with a human, this is urgent.
+Bot: I'm transferring you to a human agent now. Please hold on.
+Agent: Hi, this is a support specialist. I've reviewed your billing history and issued a refund for the duplicate charge.
+Customer: I'll wait for the follow-up, but I'm not happy.",Billing,web,False,True,22.2,8
+CONV-00234,2026-06-27 19:02:00,CUST-6820,"Customer: I've contacted support four times about the same problem and it's still not fixed.
+Bot: I understand. Let me check that for you.
+Customer: I don't want an apology, I want this fixed.
+Bot: I'm really sorry about your experience. I've logged a formal complaint and a team member will follow up within 24 hours.
+Customer: Please connect me to a live agent.
+Bot: I'm transferring you to a human agent now. Please hold on.
+Agent: I'm sorry for the repeated trouble. I've arranged a replacement and a goodwill credit.
+Customer: Okay, thank you for fixing it.",Complaint,web,True,True,21.3,8
+CONV-00223,2026-06-28 09:22:00,CUST-2824,"Customer: I'm not able to sign in on the mobile app.
+Bot: I can help with that. Could you share a few more details?
+Customer: The code still isn't coming. I've tried three times already.
+Bot: You can update your email under Settings > Profile. You'll get a verification link at the new address.
+Customer: Transfer me to customer service, this bot isn't helping.
+Bot: I'm transferring you to a human agent now. Please hold on.
+Agent: Hi, I'm from the account security team. I've verified your identity and reset your login manually.
+Customer: Thank you, that's sorted then.",Account/Login,web,True,True,8.4,8
+CONV-00170,2026-06-28 14:28:00,CUST-8123,"Customer: The app keeps crashing when I open my dashboard.
+Bot: I can help with that. Could you share a few more details?
+Customer: Still getting the same error. This is the third time I'm trying.
+Bot: Sorry, I didn't quite get that. Could you rephrase your question?
+Customer: Never mind.",Technical Issue,mobile_app,False,False,3.2,5
+CONV-00083,2026-06-28 18:05:00,CUST-5552,"Customer: Can I change the delivery address for my order?
+Bot: Failed payments are automatically reversed by the bank within 5-7 business days.
+Customer: Thanks, that's helpful.
+Bot: You're welcome! Have a great day.",Order/Transaction,web,True,False,3.5,4
+CONV-00077,2026-06-29 16:58:00,CUST-1409,"Customer: Hey, Please cancel my order, I don't need it anymore.
+Bot: I've cancelled your subscription. You'll keep access until the end of the current billing period.
+Customer: Perfect, thank you so much.
+Bot: You're welcome! Have a great day.",Cancellation,web,True,False,3.0,4
+CONV-00050,2026-06-30 12:19:00,CUST-1106,"Customer: I want a refund for a product that arrived damaged.
+Bot: Here is an article that might help: Help Centre > Getting started.
+Customer: I don't want store credit, I want my money back.
+Bot: The difference is the original shipping fee, which is non-refundable under our policy.
+Customer: I want to talk to a human agent.
+Bot: I'm transferring you to a human agent now. Please hold on.
+Agent: Hi, I'm a refunds specialist. I've escalated your refund to priority processing; you'll receive it within 48 hours.
+Customer: I'll wait for the follow-up, but I'm not happy.",Refund,web,False,True,16.8,8
+CONV-00026,2026-06-30 13:04:00,CUST-3591,"Customer: The website is showing an error 500 when I try to check out.
+Bot: I understand. Let me check that for you.
+Customer: Nothing has changed, it's still not working.
+Bot: I've created a ticket and escalated this to our specialist team. They will contact you by email within 24 hours.
+Customer: I'll wait for the follow-up, but I'm not happy.",Technical Issue,web,False,True,12.7,5
+CONV-00128,2026-06-30 13:44:00,CUST-6155,"Customer: Hello, My account is locked after too many attempts.
+Bot: Your account has been unlocked. You can try signing in again now.
+Customer: Okay, got it. Thanks for the help.
+Bot: You're welcome! Have a great day.",Account/Login,web,True,False,4.7,4
+CONV-00051,2026-06-30 15:26:00,CUST-8433,"Customer: I'm very unhappy with how my issue has been handled.
+Bot: I apologise for the inconvenience. I've shared your feedback with the delivery team and added a credit to your account.
+Customer: Okay, got it. Thanks for the help.
+Bot: Happy to help. Your issue has been marked as resolved.",Complaint,web,True,False,5.3,4
+CONV-00109,2026-06-30 21:13:00,CUST-1916,"Customer: Hello, Can you explain the late fee on my latest bill?
+Bot: I can see a duplicate charge on your account. I've raised a reversal and it should reflect in 3-5 business days.
+Customer: Okay, got it. Thanks for the help.
+Bot: You're welcome! Have a great day.",Billing,mobile_app,True,False,6.0,4

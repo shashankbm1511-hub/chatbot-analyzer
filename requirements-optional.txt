@@ -1,0 +1,3 @@
+# Optional: enables the "AI summary" panel in the Conversation Analyzer.
+# The app works fully without this. Requires OPENAI_API_KEY (see .env.example).
+openai>=1.40
