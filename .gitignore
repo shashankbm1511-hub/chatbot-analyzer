@@ -31,3 +31,4 @@ Thumbs.db
 # Local data you do not want to publish
 data/private/
 *.local.csv
+.env
